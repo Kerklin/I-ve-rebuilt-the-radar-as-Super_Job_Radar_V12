@@ -1,0 +1,375 @@
+{
+ "_read_me": "TEST CASES. Job titles that must (true) or must not (false) be shown. radar --test must pass 100 %. Add every wrong result here before changing profile.json.",
+ "cases": [
+  {
+   "title": "Construction Specialist P-3",
+   "text": "Supervise rehabilitation works, BoQ review, contractor management",
+   "show": true
+  },
+  {
+   "title": "Civil Engineer - School Rehabilitation",
+   "text": "Site supervision of construction of schools",
+   "show": true
+  },
+  {
+   "title": "Project Manager, Infrastructure Rehabilitation",
+   "text": "Manage implementation of building rehabilitation, PMP desirable",
+   "show": true
+  },
+  {
+   "title": "Procurement Specialist (Works)",
+   "text": "Tender preparation and contract management for construction works",
+   "show": true
+  },
+  {
+   "title": "Architect - Heritage Conservation",
+   "text": "Restoration of historic buildings, conservation plans",
+   "show": true
+  },
+  {
+   "title": "Urban Development Officer",
+   "text": "Urban planning and municipal infrastructure, Sarajevo",
+   "show": true
+  },
+  {
+   "title": "WASH Engineer",
+   "text": "Water supply and sanitation infrastructure design and construction supervision",
+   "show": true
+  },
+  {
+   "title": "Facilities Manager",
+   "text": "Facilities management, maintenance of premises and contractors",
+   "show": true
+  },
+  {
+   "title": "Infrastructure Engineer NO-C",
+   "text": "Rehabilitation of health facilities, structural assessment",
+   "show": true
+  },
+  {
+   "title": "Programme Manager - Reconstruction",
+   "text": "Reconstruction programme, contractor oversight, Western Balkans",
+   "show": true
+  },
+  {
+   "title": "Contracts Manager (FIDIC)",
+   "text": "FIDIC works contracts administration and claims",
+   "show": true
+  },
+  {
+   "title": "Site Engineer",
+   "text": "Daily site supervision, quality control of building works",
+   "show": true
+  },
+  {
+   "title": "Energy Efficiency Engineer",
+   "text": "Solar and energy efficiency retrofit of public buildings",
+   "show": true
+  },
+  {
+   "title": "Project Coordinator - EU funded construction",
+   "text": "Coordinate implementation and monitoring of works, Bosnia",
+   "show": true
+  },
+  {
+   "title": "Senior Construction Manager",
+   "text": "Lead construction of hospitals, contractor and budget control",
+   "show": true
+  },
+  {
+   "title": "Shelter and Settlements Engineer",
+   "text": "Construction of shelters, building repairs, site planning",
+   "show": true
+  },
+  {
+   "title": "Technical Evaluation Officer",
+   "text": "Evaluation of bids for construction tenders",
+   "show": true
+  },
+  {
+   "title": "Building Surveyor",
+   "text": "Structural assessment of damaged buildings",
+   "show": true
+  },
+  {
+   "title": "Rehabilitation Project Engineer",
+   "text": "Rehabilitation of preschools and social centres",
+   "show": true
+  },
+  {
+   "title": "Construction Monitoring Consultant (home-based)",
+   "text": "Monitoring of construction progress and quality",
+   "show": true
+  },
+  {
+   "title": "Infrastructure Specialist P-4",
+   "text": "Oversee infrastructure portfolio, construction quality, procurement of works",
+   "show": true
+  },
+  {
+   "title": "Heritage Restoration Architect",
+   "text": "Architecture and conservation of cultural heritage sites",
+   "show": true
+  },
+  {
+   "title": "Procurement Officer - Construction",
+   "text": "Procurement of works, tender documents, supply",
+   "show": true
+  },
+  {
+   "title": "Project Management Specialist",
+   "text": "Project management of rehabilitation and construction programme",
+   "show": true
+  },
+  {
+   "title": "Water Supply Infrastructure Engineer",
+   "text": "Design and supervision of water supply systems construction",
+   "show": true
+  },
+  {
+   "title": "Civil Works Supervisor",
+   "text": "Supervise civil works contractors and BoQ measurement",
+   "show": true
+  },
+  {
+   "title": "Planning Engineer",
+   "text": "Construction planning and scheduling, project monitoring",
+   "show": true
+  },
+  {
+   "title": "Maintenance Engineer",
+   "text": "Facilities maintenance and building rehabilitation",
+   "show": true
+  },
+  {
+   "title": "Reconstruction Officer",
+   "text": "Post-conflict reconstruction and rehabilitation of public buildings",
+   "show": true
+  },
+  {
+   "title": "Construction Engineer",
+   "text": "Construction supervision, contractor management, payments",
+   "show": true
+  },
+  {
+   "title": "Diplomirani inženjer građevine (m/ž)",
+   "text": "",
+   "show": true
+  },
+  {
+   "title": "Voditelj gradilišta (m/ž)",
+   "text": "",
+   "show": true
+  },
+  {
+   "title": "Nadzorni inženjer za sanaciju objekata",
+   "text": "",
+   "show": true
+  },
+  {
+   "title": "Diplomirani inženjer arhitekture sa položenim stručnim ispitom (m/ž)",
+   "text": "",
+   "show": true
+  },
+  {
+   "title": "Procurement Specialist (m/f/d) for the GPE Grant Agency",
+   "text": "",
+   "show": true
+  },
+  {
+   "title": "Software Engineer",
+   "text": "Develop cloud applications, devops",
+   "show": false
+  },
+  {
+   "title": "IT Infrastructure Engineer",
+   "text": "Network engineer, cloud servers, cyber security",
+   "show": false
+  },
+  {
+   "title": "Nurse",
+   "text": "Clinical care in health facilities",
+   "show": false
+  },
+  {
+   "title": "Driver",
+   "text": "Drive vehicles, maintenance of fleet",
+   "show": false
+  },
+  {
+   "title": "Hygiene Promotion Officer",
+   "text": "Hygiene promotion and behaviour change in communities",
+   "show": false
+  },
+  {
+   "title": "Communication Officer",
+   "text": "Communication officer for media and fundraising",
+   "show": false
+  },
+  {
+   "title": "Accountant",
+   "text": "Accountant for finance unit",
+   "show": false
+  },
+  {
+   "title": "Teacher",
+   "text": "Teacher for primary school",
+   "show": false
+  },
+  {
+   "title": "Data Scientist",
+   "text": "Data scientist for analytics",
+   "show": false
+  },
+  {
+   "title": "Medical Doctor",
+   "text": "Medical doctor for clinic",
+   "show": false
+  },
+  {
+   "title": "Fundraising Manager",
+   "text": "Fundraising and donor relations",
+   "show": false
+  },
+  {
+   "title": "Community Mobilisation Officer",
+   "text": "Community mobilisation and behaviour change",
+   "show": false
+  },
+  {
+   "title": "Cyber Security Analyst",
+   "text": "Cyber threats, IT infrastructure",
+   "show": false
+  },
+  {
+   "title": "Network Engineer",
+   "text": "Network engineer for data centre",
+   "show": false
+  },
+  {
+   "title": "Child Protection Officer",
+   "text": "Case management for children",
+   "show": false
+  },
+  {
+   "title": "Nutrition Specialist",
+   "text": "Nutrition programmes and surveys",
+   "show": false
+  },
+  {
+   "title": "HR Assistant",
+   "text": "Recruitment and staff contracts administration",
+   "show": false
+  },
+  {
+   "title": "Interpreter",
+   "text": "Interpretation and translation",
+   "show": false
+  },
+  {
+   "title": "Finance Officer",
+   "text": "Budgets and financial reporting",
+   "show": false
+  },
+  {
+   "title": "Education Specialist",
+   "text": "Curriculum and teacher training",
+   "show": false
+  },
+  {
+   "title": "Logistics Assistant",
+   "text": "Warehouse and fleet",
+   "show": false
+  },
+  {
+   "title": "Intern - Communications",
+   "text": "Social media intern",
+   "show": false
+  },
+  {
+   "title": "Health Officer",
+   "text": "Immunization programme",
+   "show": false
+  },
+  {
+   "title": "Legal Officer",
+   "text": "Legal advice",
+   "show": false
+  },
+  {
+   "title": "Protection Monitor",
+   "text": "Protection monitoring of refugees",
+   "show": false
+  },
+  {
+   "title": "Gender Specialist",
+   "text": "Gender mainstreaming",
+   "show": false
+  },
+  {
+   "title": "DevOps Engineer",
+   "text": "CI/CD pipelines, cloud",
+   "show": false
+  },
+  {
+   "title": "Psychologist",
+   "text": "Psychosocial support",
+   "show": false
+  },
+  {
+   "title": "Cash Transfer Officer",
+   "text": "Cash programming",
+   "show": false
+  },
+  {
+   "title": "Research Assistant",
+   "text": "Literature reviews and surveys",
+   "show": false
+  },
+  {
+   "title": "Diplomirani inženjer mašinstva - Voditelj projekata (m/ž)",
+   "text": "",
+   "show": false
+  },
+  {
+   "title": "Embedded Software Test Engineer",
+   "text": "",
+   "show": false
+  },
+  {
+   "title": "Medicinska sestra",
+   "text": "",
+   "show": false
+  },
+  {
+   "title": "Vozač B kategorije",
+   "text": "",
+   "show": false
+  },
+  {
+   "title": "Prodavač / Prodavačica u maloprodaji",
+   "text": "",
+   "show": false
+  },
+  {
+   "title": "IT administrator s fokusom na ERP sistem (m/ž)",
+   "text": "",
+   "show": false
+  },
+  {
+   "title": "Engineering Internship",
+   "text": "",
+   "show": false
+  },
+  {
+   "title": "Praktikant*in im Sektorvorhaben Fragilität & HDP-Nexus",
+   "text": "",
+   "show": false
+  },
+  {
+   "title": "Spezialist*in IT für SAP S/4 HANA Finanzen",
+   "text": "",
+   "show": false
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+# Super Job Radar V12 - GitHub schedule. Lives at: .github/workflows/super_job_radar.yml
+# Node.js: only 2 actions, both Node 24 (upload-pages-artifact@v5, deploy-pages@v5). Runner pinned: ubuntu-24.04.
+# Needs: Settings > Pages > Source = GitHub Actions, and Settings > Actions > Workflow permissions = Read and write.
+name: Super Job Radar
+on:
+  schedule:
+    - cron: "17 */6 * * *"          # every 6 hours (UTC)
+  workflow_dispatch:                 # "Run workflow" button
+permissions: {}
+concurrency:
+  group: super-job-radar
+  cancel-in-progress: false
+jobs:
+  radar:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    permissions:
+      contents: write                # save jobs.json (memory)
+    steps:
+      - name: 1 Get code
+        env:
+          TOKEN: ${{ github.token }}
+        run: git clone --depth 1 --branch "$GITHUB_REF_NAME" "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" .
+      - name: 2 Self-tests (stops here if anything is broken)
+        run: python3 super_job_radar.py --test
+      - name: 3 Workflow audit (report only)
+        run: python3 super_job_radar.py --audit | tee -a "$GITHUB_STEP_SUMMARY" || true
+      - name: 4 Find jobs
+        env:
+          RELIEFWEB_APPNAME: ${{ secrets.RELIEFWEB_APPNAME }}
+        run: |
+          python3 super_job_radar.py
+          cat summary.md >> "$GITHUB_STEP_SUMMARY"
+      - name: 5 Save memory
+        run: |
+          git config user.name  "super-job-radar"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jobs.json
+          git diff --cached --quiet && exit 0
+          git commit -q -m "radar $(date -u +%F_%H%M)"
+          git pull -q --rebase && git push -q
+      - name: 6 Package web page
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: site
+  publish:
+    needs: radar
+    runs-on: ubuntu-24.04
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish web page
+        id: deployment
+        uses: actions/deploy-pages@v5

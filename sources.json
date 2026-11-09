@@ -1,0 +1,220 @@
+{
+ "_read_me": "WHERE TO LOOK. reader = how the site is read: oracle | workday | cornerstone | giz | eib | reliefweb | feed_or_page. urls are tried in order (fallbacks). job_link_contains = text every job link has; without it a job link must contain a 3+ digit ID. tag = label an organisation inside a shared feed. Set \"off\": true to pause a source; manual = link shown on the page.",
+ "sources": [
+  {
+   "name": "UNDP",
+   "reader": "oracle",
+   "host": "estm.fa.em2.oraclecloud.com",
+   "site": "CX_1",
+   "manual": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
+  },
+  {
+   "name": "UNFPA",
+   "reader": "oracle",
+   "host": "estm.fa.em2.oraclecloud.com",
+   "site": "CX_2003",
+   "manual": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/jobs"
+  },
+  {
+   "name": "UN Women",
+   "reader": "oracle",
+   "host": "estm.fa.em2.oraclecloud.com",
+   "site": "CX_1001",
+   "manual": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs"
+  },
+  {
+   "name": "IOM",
+   "reader": "oracle",
+   "host": "fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com",
+   "site": "CX_1001",
+   "manual": "https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs"
+  },
+  {
+   "name": "Save the Children",
+   "reader": "oracle",
+   "host": "hcri.fa.em2.oraclecloud.com",
+   "site": "CX_1",
+   "manual": "https://hcri.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
+  },
+  {
+   "name": "WFP",
+   "reader": "workday",
+   "host": "wfp.wd3.myworkdayjobs.com",
+   "tenant": "wfp",
+   "site": "job_openings",
+   "manual": "https://wfp.wd3.myworkdayjobs.com/job_openings"
+  },
+  {
+   "name": "UNICEF",
+   "reader": "feed_or_page",
+   "urls": [
+    "https://careers.pageuppeople.com/671/cw/en/rss"
+   ],
+   "manual": "https://jobs.unicef.org/en-us/listing/"
+  },
+  {
+   "name": "UN Careers",
+   "reader": "feed_or_page",
+   "urls": [
+    "https://careers.un.org/jobfeed",
+    "https://careers.un.org/jobfeed?isPage=true&language=en"
+   ],
+   "job_link_contains": "jobSearchDescription",
+   "tag": {
+    "UN-Habitat": "Human Settlements"
+   },
+   "manual": "https://careers.un.org/jobopenings?language=en"
+  },
+  {
+   "name": "UNOPS",
+   "reader": "feed_or_page",
+   "urls": [
+    "https://rss.careers.unops.org/",
+    "https://careers.unops.org/careersmarketplace/SearchJobs/feed/?listFilterMode=1&jobRecordsPerPage=200",
+    "https://careers.unops.org/careersmarketplace/SearchJobs?jobRecordsPerPage=200"
+   ],
+   "job_link_contains": "JobDetail",
+   "manual": "https://careers.unops.org/"
+  },
+  {
+   "name": "UNIDO",
+   "reader": "feed_or_page",
+   "urls": [
+    "https://careers.unido.org/services/rss/job/?locale=en_US&keywords=%28construction%20OR%20engineer%20OR%20infrastructure%20OR%20rehabilitation%20OR%20procurement%20OR%20project%20OR%20architect%20OR%20facilities%29",
+    "https://careers.unido.org/search/?q=&sortColumn=referencedate&sortDirection=desc"
+   ],
+   "job_link_contains": "/job/",
+   "manual": "https://careers.unido.org/search/"
+  },
+  {
+   "name": "UNESCO",
+   "reader": "feed_or_page",
+   "urls": [
+    "https://careers.unesco.org/services/rss/job/?locale=en_US&keywords=%28construction%20OR%20engineer%20OR%20infrastructure%20OR%20rehabilitation%20OR%20procurement%20OR%20project%20OR%20architect%20OR%20facilities%29",
+    "https://careers.unesco.org/search/?q=&sortColumn=referencedate&sortDirection=desc"
+   ],
+   "job_link_contains": "/job/",
+   "manual": "https://careers.unesco.org/viewalljobs/"
+  },
+  {
+   "name": "EBRD",
+   "reader": "feed_or_page",
+   "urls": [
+    "https://jobs.ebrd.com/services/rss/job/?locale=en_US&keywords=%28construction%20OR%20engineer%20OR%20infrastructure%20OR%20rehabilitation%20OR%20procurement%20OR%20project%20OR%20architect%20OR%20facilities%29",
+    "https://jobs.ebrd.com/search/?q=&sortColumn=referencedate&sortDirection=desc"
+   ],
+   "job_link_contains": "/job/",
+   "manual": "https://jobs.ebrd.com/viewalljobs/"
+  },
+  {
+   "name": "World Bank",
+   "reader": "cornerstone",
+   "host": "worldbankgroup.csod.com",
+   "site": "1",
+   "company": "worldbankgroup",
+   "manual": "https://www.worldbank.org/ext/en/careers"
+  },
+  {
+   "name": "EIB",
+   "reader": "eib",
+   "urls": [
+    "https://erecruitment.eib.org/psc/hr/EIBJOBS/CAREERS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_SCHJOB_FL&Action=U"
+   ],
+   "job_link": "https://erecruitment.eib.org/psc/hr/EIBJOBS/CAREERS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId={id}&PostingSeq=1",
+   "manual": "https://www.eib.org/en/about/careers/index"
+  },
+  {
+   "name": "OSCE",
+   "reader": "feed_or_page",
+   "urls": [
+    "https://vacancies.osce.org/latest-jobs",
+    "https://vacancies.osce.org/jobs/search/"
+   ],
+   "same_site_only": true,
+   "manual": "https://vacancies.osce.org/jobs/search/"
+  },
+  {
+   "name": "Council of Europe",
+   "reader": "feed_or_page",
+   "urls": [
+    "https://talents.coe.int/en_GB/careersmarketplace/SearchJobs/feed/?listFilterMode=1&jobRecordsPerPage=200",
+    "https://talents.coe.int/en_GB/careersmarketplace/SearchJobs?jobRecordsPerPage=200"
+   ],
+   "job_link_contains": "JobDetail",
+   "manual": "https://www.coe.int/en/web/jobs"
+  },
+  {
+   "name": "GIZ",
+   "reader": "giz",
+   "urls": [
+    "https://jobs.giz.de/index.php?ac=search_result&language=2",
+    "https://jobs.giz.de/index.php?language=2",
+    "https://jobs.giz.de/"
+   ],
+   "job_page": "https://jobs.giz.de/index.php?ac=jobad&id={id}&language=2",
+   "manual": "https://jobs.giz.de/index.php?ac=search_result&language=2"
+  },
+  {
+   "name": "ReliefWeb",
+   "reader": "reliefweb",
+   "query": "construction OR engineer OR infrastructure OR rehabilitation OR shelter OR architect OR procurement",
+   "manual": "https://reliefweb.int/jobs"
+  },
+  {
+   "name": "ReliefWeb Balkans",
+   "reader": "reliefweb",
+   "countries": [
+    "Bosnia and Herzegovina",
+    "Serbia",
+    "Montenegro",
+    "Croatia",
+    "North Macedonia",
+    "Albania",
+    "Kosovo"
+   ],
+   "manual": "https://reliefweb.int/jobs?search=country.exact:%22Bosnia%20and%20Herzegovina%22"
+  },
+  {
+   "name": "Impactpool",
+   "reader": "feed_or_page",
+   "urls": [
+    "https://www.impactpool.org/search?q=construction",
+    "https://www.impactpool.org/search?q=engineer"
+   ],
+   "job_link_contains": "/jobs/",
+   "manual": "https://www.impactpool.org/search?q=construction%20engineer"
+  },
+  {
+   "name": "Devex",
+   "reader": "feed_or_page",
+   "urls": [
+    "https://www.devex.com/jobs/feed.rss"
+   ],
+   "manual": "https://www.devex.com/jobs/search?query=construction"
+  },
+  {
+   "name": "Klix Posao",
+   "reader": "feed_or_page",
+   "urls": [
+    "https://posao.klix.ba/oglasi",
+    "https://posao.klix.ba/"
+   ],
+   "same_site_only": true,
+   "last_date_is_deadline": true,
+   "manual": "https://posao.klix.ba/oglasi"
+  },
+  {
+   "name": "MojPosao",
+   "reader": "feed_or_page",
+   "urls": [
+    "https://www.mojposao.ba/pretraga-poslova?sortBy=adtype"
+   ],
+   "same_site_only": true,
+   "manual": "https://www.mojposao.ba/pretraga-poslova?sortBy=adtype"
+  }
+ ],
+ "manual_only": {
+  "UNjobs": "robots.txt forbids automated reading",
+  "UN-Habitat": "no own feed; its jobs come via UN Careers, labelled 'UN Careers · UN-Habitat'"
+ }
+}
