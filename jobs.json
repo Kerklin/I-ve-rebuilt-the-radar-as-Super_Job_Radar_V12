@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14 06:31 UTC",
+ "updated": "2026-11-14 18:10 UTC",
  "jobs": [
   {
    "title": "Business and Human Rights Analyst",
@@ -397,30 +397,6 @@
    "status": "OK",
    "why": "no blocker found",
    "snippet": "Ndjamena, Chad Under the overall supervision of the Head of Supply Chain Unit in Chad and direct supervision of the Supply Chain Officer (Common Services); and, in collaboration with relevant units at Headquarters and the Administrative Centres, the Supply Chain Associate will be responsible and acc",
-   "first_seen": "2026-11-09",
-   "old_data": false
-  },
-  {
-   "title": "Mechanics (Electrical Engineer), SC4, Cox's Bazar",
-   "link": "https://wfp.wd3.myworkdayjobs.com/en-US/job_openings/job/Coxs-Bazaar-Bangladesh-The-Peoples-R/Mechanics--Electrical-Engineer---SC4--Cox-s-Bazar_JR128058",
-   "source": "WFP",
-   "origin": "WFP",
-   "score": 80,
-   "track": "construction",
-   "reasons": [
-    "engineer",
-    "bill of quantities",
-    "boq",
-    "works",
-    "implementation",
-    "monitoring",
-    "planning",
-    "tender"
-   ],
-   "deadline": "2026-11-15",
-   "status": "OK",
-   "why": "no blocker found",
-   "snippet": "Cox's Bazaar, Bangladesh, The People's R DEADLINE FOR APPLICATIONS 14 November 2026-23:59-GMT+06:00 Bangladesh Standard Time (Dhaka) WFP celebrates and embraces diversity. It is committed to the principle of equal employment opportunity for all its employees and encourages qualified candidates to ap",
    "first_seen": "2026-11-09",
    "old_data": false
   },
@@ -3426,6 +3402,24 @@
    "old_data": false
   },
   {
+   "title": "E T Consultant - Coastal Infrastructure Engineer",
+   "link": "https://worldbankgroup.csod.com/ux/ats/careersite/1/home/requisition/39137?c=worldbankgroup",
+   "source": "World Bank",
+   "origin": "World Bank",
+   "score": 60,
+   "track": "construction",
+   "reasons": [
+    "engineer",
+    "infrastructure"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "New Delhi IN",
+   "first_seen": "2026-11-14",
+   "old_data": false
+  },
+  {
    "title": "Network Automation/DDI Engineer (Associate Infrastructure Engineer)",
    "link": "https://worldbankgroup.csod.com/ux/ats/careersite/1/home/requisition/39309?c=worldbankgroup",
    "source": "World Bank",
@@ -5112,6 +5106,24 @@
    "old_data": false
   },
   {
+   "title": "Greening Agriculture Knowledge Management, Monitoring and Reporting Specialist",
+   "link": "https://www.devex.com/jobs/greening-agriculture-knowledge-management-monitoring-and-reporting-specialist-1473272",
+   "source": "Devex",
+   "origin": "Devex",
+   "score": 35,
+   "track": "project_management",
+   "reasons": [
+    "monitoring",
+    "+specialist"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Worldwide Mid-level",
+   "first_seen": "2026-11-14",
+   "old_data": false
+  },
+  {
    "title": "Appel à candidatures pour opportunités futures: Project Manager",
    "link": "https://hcri.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15537/",
    "source": "Save the Children",
@@ -5247,25 +5259,6 @@
    "old_data": false
   },
   {
-   "title": "National only - Consultant: Climate Resilience for Children, China Country Office, Climate Section , Beijing, 12.4 months, Office based with trip",
-   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/596798",
-   "source": "UNICEF",
-   "origin": "UNICEF",
-   "score": 30,
-   "track": "project_management",
-   "reasons": [
-    "works",
-    "implementation",
-    "planning"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Contract Duration – 12.5 months Working arrangement: Office Based with trip UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and ",
-   "first_seen": "2026-11-09",
-   "old_data": false
-  },
-  {
    "title": "Senior Expert I - Corporate Risk and Benchmarking, 9.40 months, Evaluation Office, New York, REMOTELY (Open For International Candidates), Req#596756",
    "link": "https://careers.pageuppeople.com/671/cw/en-us/job/596756",
    "source": "UNICEF",
@@ -5364,23 +5357,6 @@
   {
    "title": "Project Management Support Officer",
    "link": "https://careers.unops.org/careersmarketplace/JobDetail/4873",
-   "source": "UNOPS",
-   "origin": "UNOPS",
-   "score": 30,
-   "track": "project_management",
-   "reasons": [
-    "project management"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Project Management Support Officer",
-   "first_seen": "2026-11-09",
-   "old_data": false
-  },
-  {
-   "title": "Project Management Support Officer",
-   "link": "https://careers.unops.org/careersmarketplace/JobDetail/5054",
    "source": "UNOPS",
    "origin": "UNOPS",
    "score": 30,
@@ -5613,6 +5589,23 @@
    "status": "CHECK",
    "why": "deadline not found - open the vacancy",
    "snippet": "Biomedical Engineer",
+   "first_seen": "2026-11-09",
+   "old_data": false
+  },
+  {
+   "title": "Project Management Support Officer",
+   "link": "https://careers.unops.org/careersmarketplace/JobDetail/5054",
+   "source": "UNOPS",
+   "origin": "UNOPS",
+   "score": 30,
+   "track": "project_management",
+   "reasons": [
+    "project management"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Project Management Support Officer",
    "first_seen": "2026-11-09",
    "old_data": false
   },
@@ -5872,6 +5865,23 @@
    "old_data": false
   },
   {
+   "title": "E T Consultant - Environmental Engineer",
+   "link": "https://worldbankgroup.csod.com/ux/ats/careersite/1/home/requisition/39100?c=worldbankgroup",
+   "source": "World Bank",
+   "origin": "World Bank",
+   "score": 30,
+   "track": "construction",
+   "reasons": [
+    "engineer"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Dhaka BD",
+   "first_seen": "2026-11-14",
+   "old_data": false
+  },
+  {
    "title": "Operating Engineer, Plant Operations",
    "link": "https://worldbankgroup.csod.com/ux/ats/careersite/1/home/requisition/39324?c=worldbankgroup",
    "source": "World Bank",
@@ -5957,7 +5967,7 @@
    "old_data": false
   },
   {
-   "title": "New job: TEMPORARY POST - Construction and Industrial Security Officer NATO - North Atlantic Treaty Organization Mons NATO Grade G15",
+   "title": "TEMPORARY POST - Construction and Industrial Security Officer NATO - North Atlantic Treaty Organization Mons NATO Grade G15",
    "link": "https://www.impactpool.org/jobs/1247750",
    "source": "Impactpool",
    "origin": "Impactpool",
@@ -5969,7 +5979,7 @@
    "deadline": "",
    "status": "CHECK",
    "why": "deadline not found - open the vacancy",
-   "snippet": "New job: TEMPORARY POST - Construction and Industrial Security Officer NATO - North Atlantic Treaty Organization Mons NATO Grade G15",
+   "snippet": "TEMPORARY POST - Construction and Industrial Security Officer NATO - North Atlantic Treaty Organization Mons NATO Grade G15",
    "first_seen": "2026-11-13",
    "old_data": false
   },
@@ -5991,7 +6001,7 @@
    "old_data": false
   },
   {
-   "title": "New job: Civil Engineer UNOPS - United Nations Office for Project Services Port Moresby ICS 09",
+   "title": "Civil Engineer UNOPS - United Nations Office for Project Services Port Moresby ICS 09",
    "link": "https://www.impactpool.org/jobs/1247756",
    "source": "Impactpool",
    "origin": "Impactpool",
@@ -6003,7 +6013,7 @@
    "deadline": "",
    "status": "CHECK",
    "why": "deadline not found - open the vacancy",
-   "snippet": "New job: Civil Engineer UNOPS - United Nations Office for Project Services Port Moresby ICS 09",
+   "snippet": "Civil Engineer UNOPS - United Nations Office for Project Services Port Moresby ICS 09",
    "first_seen": "2026-11-13",
    "old_data": false
   },
@@ -6179,7 +6189,7 @@
   },
   {
    "title": "Voditelj projekta proširanja fabrike (m/f)",
-   "link": "https://www.mojposao.ba/posao/7c079d51-ddd9-11f1-a8c0-42010a9c001a/voditelj-projekta-prosiranja-fabrike-mf?source=search_results&searchId=f0ede255-ad10-42a2-9123-a7c8b5ab1a11&searchSource=legacy",
+   "link": "https://www.mojposao.ba/posao/7c079d51-ddd9-11f1-a8c0-42010a9c001a/voditelj-projekta-prosiranja-fabrike-mf?source=search_results&searchId=6637050c-6bdc-4c8a-8420-0b809da56303&searchSource=legacy",
    "source": "MojPosao",
    "origin": "MojPosao",
    "score": 30,
@@ -6196,7 +6206,7 @@
   },
   {
    "title": "Inženjer elektrotehnike",
-   "link": "https://www.mojposao.ba/posao/d86663eb-ddb6-11f1-a8c0-42010a9c001a/inzenjer-elektrotehnike?source=search_results&searchId=f0ede255-ad10-42a2-9123-a7c8b5ab1a11&searchSource=legacy",
+   "link": "https://www.mojposao.ba/posao/d86663eb-ddb6-11f1-a8c0-42010a9c001a/inzenjer-elektrotehnike?source=search_results&searchId=6637050c-6bdc-4c8a-8420-0b809da56303&searchSource=legacy",
    "source": "MojPosao",
    "origin": "MojPosao",
    "score": 30,
@@ -6213,7 +6223,7 @@
   },
   {
    "title": "Pricing Manager - Commercial Architect",
-   "link": "https://www.mojposao.ba/posao/afbab08f-dcec-11f1-a8c0-42010a9c001a/pricing-manager---commercial-architect?source=search_results&searchId=f0ede255-ad10-42a2-9123-a7c8b5ab1a11&searchSource=legacy",
+   "link": "https://www.mojposao.ba/posao/afbab08f-dcec-11f1-a8c0-42010a9c001a/pricing-manager---commercial-architect?source=search_results&searchId=6637050c-6bdc-4c8a-8420-0b809da56303&searchSource=legacy",
    "source": "MojPosao",
    "origin": "MojPosao",
    "score": 30,
@@ -6230,7 +6240,7 @@
   },
   {
    "title": "Solutions Architect - Consulting & Solutioning Manager",
-   "link": "https://www.mojposao.ba/posao/ec53e981-dcec-11f1-a8c0-42010a9c001a/solutions-architect---consulting--solutioning-manager?source=search_results&searchId=f0ede255-ad10-42a2-9123-a7c8b5ab1a11&searchSource=legacy",
+   "link": "https://www.mojposao.ba/posao/ec53e981-dcec-11f1-a8c0-42010a9c001a/solutions-architect---consulting--solutioning-manager?source=search_results&searchId=6637050c-6bdc-4c8a-8420-0b809da56303&searchSource=legacy",
    "source": "MojPosao",
    "origin": "MojPosao",
    "score": 30,
@@ -6247,7 +6257,7 @@
   },
   {
    "title": "Građevinski radnik",
-   "link": "https://www.mojposao.ba/posao/c235f1b9-df43-11f1-8233-42010a9c001b/gradjevinski--radnik?source=search_results&searchId=f0ede255-ad10-42a2-9123-a7c8b5ab1a11&searchSource=legacy",
+   "link": "https://www.mojposao.ba/posao/c235f1b9-df43-11f1-8233-42010a9c001b/gradjevinski--radnik?source=search_results&searchId=6637050c-6bdc-4c8a-8420-0b809da56303&searchSource=legacy",
    "source": "MojPosao",
    "origin": "MojPosao",
    "score": 30,
@@ -6264,7 +6274,7 @@
   },
   {
    "title": "Referent nabavke",
-   "link": "https://www.mojposao.ba/posao/e3cc4982-d9f1-11f1-a8c0-42010a9c001a/referent-nabavke?source=search_results&searchId=f0ede255-ad10-42a2-9123-a7c8b5ab1a11&searchSource=legacy",
+   "link": "https://www.mojposao.ba/posao/e3cc4982-d9f1-11f1-a8c0-42010a9c001a/referent-nabavke?source=search_results&searchId=6637050c-6bdc-4c8a-8420-0b809da56303&searchSource=legacy",
    "source": "MojPosao",
    "origin": "MojPosao",
    "score": 30,
@@ -6281,7 +6291,7 @@
   },
   {
    "title": "Radnik tehničkog održavanja - mehaničar (m/ž)",
-   "link": "https://www.mojposao.ba/posao/c1198f11-d8f7-11f1-a8c0-42010a9c001a/radnik-tehnickog-odrzavanja---mehanicar-mz?source=search_results&searchId=f0ede255-ad10-42a2-9123-a7c8b5ab1a11&searchSource=legacy",
+   "link": "https://www.mojposao.ba/posao/c1198f11-d8f7-11f1-a8c0-42010a9c001a/radnik-tehnickog-odrzavanja---mehanicar-mz?source=search_results&searchId=6637050c-6bdc-4c8a-8420-0b809da56303&searchSource=legacy",
    "source": "MojPosao",
    "origin": "MojPosao",
    "score": 30,
@@ -7309,24 +7319,6 @@
    "old_data": false
   },
   {
-   "title": "Job is closed: Construction Officer (NO-2), TA (Two positions), Niamey – Niger, WCARO UNICEF - United Nations Children’s Fund Niamey NO-B, National Professional Officer - Locally recruited position - ",
-   "link": "https://www.impactpool.org/jobs/1245730",
-   "source": "Impactpool",
-   "origin": "Impactpool",
-   "score": 35,
-   "track": "construction",
-   "reasons": [
-    "construction",
-    "+no-b"
-   ],
-   "deadline": "",
-   "status": "NOT ELIGIBLE",
-   "why": "local post outside BiH",
-   "snippet": "Job is closed: Construction Officer (NO-2), TA (Two positions), Niamey – Niger, WCARO UNICEF - United Nations Children’s Fund Niamey NO-B, National Professional Officer - Locally recruited position - Junior level",
-   "first_seen": "2026-11-09",
-   "old_data": false
-  },
-  {
    "title": "SENIOR FACILITIES MANAGEMENT ASSISTANT UNECLAC - United Nations Economic Commission for Latin America and the Caribbean Santiago GS-7, General Service - No need for Higher Education - Locally recruite",
    "link": "https://www.impactpool.org/jobs/1245675",
    "source": "Impactpool",
@@ -7597,7 +7589,7 @@
    "old_data": false
   },
   {
-   "title": "New job: ASSOCIATE, WASTEWATER ENGINEER GGGI - Global Green Growth Institute Lao PDR G6",
+   "title": "ASSOCIATE, WASTEWATER ENGINEER GGGI - Global Green Growth Institute Lao PDR G6",
    "link": "https://www.impactpool.org/jobs/1247816",
    "source": "Impactpool",
    "origin": "Impactpool",
@@ -7609,7 +7601,7 @@
    "deadline": "",
    "status": "NOT ELIGIBLE",
    "why": "local post outside BiH",
-   "snippet": "New job: ASSOCIATE, WASTEWATER ENGINEER GGGI - Global Green Growth Institute Lao PDR G6",
+   "snippet": "ASSOCIATE, WASTEWATER ENGINEER GGGI - Global Green Growth Institute Lao PDR G6",
    "first_seen": "2026-11-13",
    "old_data": false
   }
@@ -7619,7 +7611,7 @@
    "status": "OK",
    "items": 102,
    "matches": 19,
-   "last_ok": "2026-11-14 06:31 UTC",
+   "last_ok": "2026-11-14 18:10 UTC",
    "fails_in_a_row": 0,
    "detail": "estm.fa.em2.oraclecloud.com",
    "fix": "",
@@ -7629,7 +7621,7 @@
    "status": "OK",
    "items": 23,
    "matches": 3,
-   "last_ok": "2026-11-14 06:31 UTC",
+   "last_ok": "2026-11-14 18:10 UTC",
    "fails_in_a_row": 0,
    "detail": "estm.fa.em2.oraclecloud.com",
    "fix": "",
@@ -7639,7 +7631,7 @@
    "status": "OK",
    "items": 44,
    "matches": 2,
-   "last_ok": "2026-11-14 06:31 UTC",
+   "last_ok": "2026-11-14 18:10 UTC",
    "fails_in_a_row": 0,
    "detail": "estm.fa.em2.oraclecloud.com",
    "fix": "",
@@ -7647,9 +7639,9 @@
   },
   "IOM": {
    "status": "OK",
-   "items": 155,
+   "items": 154,
    "matches": 24,
-   "last_ok": "2026-11-14 06:31 UTC",
+   "last_ok": "2026-11-14 18:10 UTC",
    "fails_in_a_row": 0,
    "detail": "fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com",
    "fix": "",
@@ -7659,7 +7651,7 @@
    "status": "OK",
    "items": 88,
    "matches": 20,
-   "last_ok": "2026-11-14 06:31 UTC",
+   "last_ok": "2026-11-14 18:10 UTC",
    "fails_in_a_row": 0,
    "detail": "hcri.fa.em2.oraclecloud.com",
    "fix": "",
@@ -7667,9 +7659,9 @@
   },
   "WFP": {
    "status": "OK",
-   "items": 91,
-   "matches": 13,
-   "last_ok": "2026-11-14 06:31 UTC",
+   "items": 90,
+   "matches": 12,
+   "last_ok": "2026-11-14 18:10 UTC",
    "fails_in_a_row": 0,
    "detail": "wfp.wd3.myworkdayjobs.com",
    "fix": "",
@@ -7678,8 +7670,8 @@
   "UNICEF": {
    "status": "OK",
    "items": 217,
-   "matches": 145,
-   "last_ok": "2026-11-14 06:31 UTC",
+   "matches": 144,
+   "last_ok": "2026-11-14 18:10 UTC",
    "fails_in_a_row": 0,
    "detail": "https://careers.pageuppeople.com/671/cw/en/rss",
    "fix": "",
@@ -7687,9 +7679,9 @@
   },
   "UN Careers": {
    "status": "OK",
-   "items": 455,
+   "items": 456,
    "matches": 51,
-   "last_ok": "2026-11-14 06:31 UTC",
+   "last_ok": "2026-11-14 18:10 UTC",
    "fails_in_a_row": 0,
    "detail": "https://careers.un.org/jobfeed",
    "fix": "",
@@ -7697,9 +7689,9 @@
   },
   "UNOPS": {
    "status": "OK",
-   "items": 105,
+   "items": 106,
    "matches": 43,
-   "last_ok": "2026-11-14 06:31 UTC",
+   "last_ok": "2026-11-14 18:10 UTC",
    "fails_in_a_row": 0,
    "detail": "https://rss.careers.unops.org/",
    "fix": "",
@@ -7709,7 +7701,7 @@
    "status": "OK",
    "items": 32,
    "matches": 4,
-   "last_ok": "2026-11-14 06:31 UTC",
+   "last_ok": "2026-11-14 18:10 UTC",
    "fails_in_a_row": 0,
    "detail": "https://careers.unido.org/search/?q=&sortColumn=referencedate&sortDirection=desc",
    "fix": "",
@@ -7719,7 +7711,7 @@
    "status": "OK",
    "items": 46,
    "matches": 10,
-   "last_ok": "2026-11-14 06:31 UTC",
+   "last_ok": "2026-11-14 18:10 UTC",
    "fails_in_a_row": 0,
    "detail": "https://careers.unesco.org/search/?q=&sortColumn=referencedate&sortDirection=desc",
    "fix": "",
@@ -7729,7 +7721,7 @@
    "status": "OK",
    "items": 46,
    "matches": 12,
-   "last_ok": "2026-11-14 06:31 UTC",
+   "last_ok": "2026-11-14 18:10 UTC",
    "fails_in_a_row": 0,
    "detail": "https://jobs.ebrd.com/search/?q=&sortColumn=referencedate&sortDirection=desc",
    "fix": "",
@@ -7737,9 +7729,9 @@
   },
   "World Bank": {
    "status": "OK",
-   "items": 59,
-   "matches": 8,
-   "last_ok": "2026-11-14 06:31 UTC",
+   "items": 62,
+   "matches": 10,
+   "last_ok": "2026-11-14 18:10 UTC",
    "fails_in_a_row": 0,
    "detail": "worldbankgroup.csod.com",
    "fix": "",
@@ -7749,7 +7741,7 @@
    "status": "OK",
    "items": 0,
    "matches": 0,
-   "last_ok": "2026-11-14 06:31 UTC",
+   "last_ok": "2026-11-14 18:10 UTC",
    "fails_in_a_row": 0,
    "detail": "erecruitment.eib.org",
    "fix": "",
@@ -7759,7 +7751,7 @@
    "status": "OK",
    "items": 20,
    "matches": 2,
-   "last_ok": "2026-11-14 06:31 UTC",
+   "last_ok": "2026-11-14 18:10 UTC",
    "fails_in_a_row": 0,
    "detail": "https://vacancies.osce.org/latest-jobs",
    "fix": "",
@@ -7769,7 +7761,7 @@
    "status": "OK",
    "items": 9,
    "matches": 0,
-   "last_ok": "2026-11-14 06:31 UTC",
+   "last_ok": "2026-11-14 18:10 UTC",
    "fails_in_a_row": 0,
    "detail": "https://talents.coe.int/en_GB/careersmarketplace/SearchJobs/feed/?listFilterMode=1&jobRecordsPerPage=200",
    "fix": "",
@@ -7780,7 +7772,7 @@
    "items": 0,
    "matches": 0,
    "last_ok": "never",
-   "fails_in_a_row": 10,
+   "fails_in_a_row": 11,
    "detail": "RuntimeError: 0 job IDs on the list pages (layout changed or built by JavaScript) ",
    "fix": "Page layout changed or needs JavaScript. Open Manual; update job_link_contains or set \"off\": true.",
    "manual": "https://jobs.giz.de/index.php?ac=search_result&language=2"
@@ -7790,7 +7782,7 @@
    "items": 0,
    "matches": 0,
    "last_ok": "never",
-   "fails_in_a_row": 10,
+   "fails_in_a_row": 11,
    "detail": "add the repository secret RELIEFWEB_APPNAME (see README, section ReliefWeb)",
    "fix": "See README > ReliefWeb (5 minutes, once).",
    "manual": "https://reliefweb.int/jobs"
@@ -7800,7 +7792,7 @@
    "items": 0,
    "matches": 0,
    "last_ok": "never",
-   "fails_in_a_row": 10,
+   "fails_in_a_row": 11,
    "detail": "add the repository secret RELIEFWEB_APPNAME (see README, section ReliefWeb)",
    "fix": "See README > ReliefWeb (5 minutes, once).",
    "manual": "https://reliefweb.int/jobs?search=country.exact:%22Bosnia%20and%20Herzegovina%22"
@@ -7808,8 +7800,8 @@
   "Impactpool": {
    "status": "OK",
    "items": 40,
-   "matches": 29,
-   "last_ok": "2026-11-14 06:31 UTC",
+   "matches": 28,
+   "last_ok": "2026-11-14 18:10 UTC",
    "fails_in_a_row": 0,
    "detail": "https://www.impactpool.org/search?q=construction",
    "fix": "",
@@ -7818,8 +7810,8 @@
   "Devex": {
    "status": "OK",
    "items": 20,
-   "matches": 1,
-   "last_ok": "2026-11-14 06:31 UTC",
+   "matches": 2,
+   "last_ok": "2026-11-14 18:10 UTC",
    "fails_in_a_row": 0,
    "detail": "https://www.devex.com/jobs/feed.rss",
    "fix": "",
@@ -7829,7 +7821,7 @@
    "status": "OK",
    "items": 23,
    "matches": 4,
-   "last_ok": "2026-11-14 06:31 UTC",
+   "last_ok": "2026-11-14 18:10 UTC",
    "fails_in_a_row": 0,
    "detail": "https://posao.klix.ba/oglasi",
    "fix": "",
@@ -7839,7 +7831,7 @@
    "status": "OK",
    "items": 87,
    "matches": 7,
-   "last_ok": "2026-11-14 06:31 UTC",
+   "last_ok": "2026-11-14 18:10 UTC",
    "fails_in_a_row": 0,
    "detail": "https://www.mojposao.ba/pretraga-poslova?sortBy=adtype",
    "fix": "",
