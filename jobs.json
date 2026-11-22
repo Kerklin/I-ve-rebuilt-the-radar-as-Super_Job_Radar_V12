@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22 06:56 UTC",
+ "updated": "2026-11-22 19:44 UTC",
  "jobs": [
   {
    "title": "Senior Manager, Transformation Project Management - FMS SaaS",
@@ -2700,22 +2700,22 @@
    "old_data": false
   },
   {
-   "title": "Job is closed: Measurement, Cost And Contracts Engineer (for internal and external candidates) UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Amman 14",
-   "link": "https://www.impactpool.org/jobs/1242166",
-   "source": "Impactpool",
-   "origin": "Impactpool",
+   "title": "Water & Shelter, Infrastructure (WASI) Officer (Engineer)",
+   "link": "https://www.devex.com/jobs/water-shelter-infrastructure-wasi-officer-engineer-1474830",
+   "source": "Devex",
+   "origin": "Devex",
    "score": 80,
    "track": "construction",
    "reasons": [
     "engineer",
-    "works",
-    "contracts"
+    "infrastructure",
+    "shelter"
    ],
    "deadline": "",
    "status": "CHECK",
    "why": "deadline not found - open the vacancy",
-   "snippet": "Job is closed: Measurement, Cost And Contracts Engineer (for internal and external candidates) UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Amman 14",
-   "first_seen": "2026-11-09",
+   "snippet": "Afghanistan | Central Asia Mid-level",
+   "first_seen": "2026-11-22",
    "old_data": false
   },
   {
@@ -3040,6 +3040,25 @@
    "why": "deadline not found - open the vacancy",
    "snippet": "Senior Project Manager (Infrastructure) UNOPS - United Nations Office for Project Services Damascus ICS 11",
    "first_seen": "2026-11-19",
+   "old_data": false
+  },
+  {
+   "title": "Senior Project Manager (Infrastructure) UNOPS - United Nations Office for Project Services Tshikapa ICS 11",
+   "link": "https://www.impactpool.org/jobs/1245869",
+   "source": "Impactpool",
+   "origin": "Impactpool",
+   "score": 65,
+   "track": "construction",
+   "reasons": [
+    "infrastructure",
+    "project manager",
+    "+senior"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Senior Project Manager (Infrastructure) UNOPS - United Nations Office for Project Services Tshikapa ICS 11",
+   "first_seen": "2026-11-22",
    "old_data": false
   },
   {
@@ -3378,24 +3397,6 @@
    "old_data": false
   },
   {
-   "title": "Closing tomorrow: Construction Management Engineer UNOPS - United Nations Office for Project Services Port Moresby ICS 09",
-   "link": "https://www.impactpool.org/jobs/1248576",
-   "source": "Impactpool",
-   "origin": "Impactpool",
-   "score": 60,
-   "track": "construction",
-   "reasons": [
-    "construction",
-    "engineer"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Closing tomorrow: Construction Management Engineer UNOPS - United Nations Office for Project Services Port Moresby ICS 09",
-   "first_seen": "2026-11-18",
-   "old_data": false
-  },
-  {
    "title": "Construction Management Engineer UNOPS - United Nations Office for Project Services Tshikapa ICS 08",
    "link": "https://www.impactpool.org/jobs/1249235",
    "source": "Impactpool",
@@ -3414,6 +3415,42 @@
    "old_data": false
   },
   {
+   "title": "Closing tomorrow: Construction Management Engineer UNOPS - United Nations Office for Project Services Port Moresby ICS 09",
+   "link": "https://www.impactpool.org/jobs/1248576",
+   "source": "Impactpool",
+   "origin": "Impactpool",
+   "score": 60,
+   "track": "construction",
+   "reasons": [
+    "construction",
+    "engineer"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Closing tomorrow: Construction Management Engineer UNOPS - United Nations Office for Project Services Port Moresby ICS 09",
+   "first_seen": "2026-11-18",
+   "old_data": false
+  },
+  {
+   "title": "Construction Management Associate Engineer UNOPS - United Nations Office for Project Services West Bank ICS 06",
+   "link": "https://www.impactpool.org/jobs/1249234",
+   "source": "Impactpool",
+   "origin": "Impactpool",
+   "score": 60,
+   "track": "construction",
+   "reasons": [
+    "construction",
+    "engineer"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Construction Management Associate Engineer UNOPS - United Nations Office for Project Services West Bank ICS 06",
+   "first_seen": "2026-11-20",
+   "old_data": false
+  },
+  {
    "title": "Construction Management Engineer UNOPS - United Nations Office for Project Services Bukavu ICS 08",
    "link": "https://www.impactpool.org/jobs/1249236",
    "source": "Impactpool",
@@ -3428,24 +3465,6 @@
    "status": "CHECK",
    "why": "deadline not found - open the vacancy",
    "snippet": "Construction Management Engineer UNOPS - United Nations Office for Project Services Bukavu ICS 08",
-   "first_seen": "2026-11-20",
-   "old_data": false
-  },
-  {
-   "title": "Construction Management Associate Engineer-Retainer UNOPS - United Nations Office for Project Services West Bank ICS 06",
-   "link": "https://www.impactpool.org/jobs/1249234",
-   "source": "Impactpool",
-   "origin": "Impactpool",
-   "score": 60,
-   "track": "construction",
-   "reasons": [
-    "construction",
-    "engineer"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Construction Management Associate Engineer-Retainer UNOPS - United Nations Office for Project Services West Bank ICS 06",
    "first_seen": "2026-11-20",
    "old_data": false
   },
@@ -3501,6 +3520,24 @@
    "why": "deadline not found - open the vacancy",
    "snippet": "Project Manager (Implementation) UNOPS - United Nations Office for Project Services Suva ICSC-10 - Mid level",
    "first_seen": "2026-11-19",
+   "old_data": false
+  },
+  {
+   "title": "Field Monitoring Engineer CTG - Committed To Good Ukraine Mid - Mid level",
+   "link": "https://www.impactpool.org/jobs/1207655",
+   "source": "Impactpool",
+   "origin": "Impactpool",
+   "score": 60,
+   "track": "construction",
+   "reasons": [
+    "engineer",
+    "monitoring"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Field Monitoring Engineer CTG - Committed To Good Ukraine Mid - Mid level",
+   "first_seen": "2026-11-22",
    "old_data": false
   },
   {
@@ -4984,24 +5021,6 @@
    "old_data": false
   },
   {
-   "title": "Senior Project Manager",
-   "link": "https://www.devex.com/jobs/senior-project-manager-1474797",
-   "source": "Devex",
-   "origin": "Devex",
-   "score": 35,
-   "track": "project_management",
-   "reasons": [
-    "project manager",
-    "+senior"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Yemen | North Africa and Middle East Executive-level",
-   "first_seen": "2026-11-21",
-   "old_data": false
-  },
-  {
    "title": "Appel à candidatures pour opportunités futures: Project Manager",
    "link": "https://hcri.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15537/",
    "source": "Save the Children",
@@ -5854,23 +5873,6 @@
    "old_data": false
   },
   {
-   "title": "Job is closed: Lead Quantity Surveyor UNOPS - United Nations Office for Project Services Port Moresby ICSC-10 - Mid level",
-   "link": "https://www.impactpool.org/jobs/1248220",
-   "source": "Impactpool",
-   "origin": "Impactpool",
-   "score": 30,
-   "track": "construction",
-   "reasons": [
-    "surveyor"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Job is closed: Lead Quantity Surveyor UNOPS - United Nations Office for Project Services Port Moresby ICSC-10 - Mid level",
-   "first_seen": "2026-11-16",
-   "old_data": false
-  },
-  {
    "title": "Civil Engineer UNOPS - United Nations Office for Project Services Tarawa ICS 09",
    "link": "https://www.impactpool.org/jobs/1248757",
    "source": "Impactpool",
@@ -5885,23 +5887,6 @@
    "why": "deadline not found - open the vacancy",
    "snippet": "Civil Engineer UNOPS - United Nations Office for Project Services Tarawa ICS 09",
    "first_seen": "2026-11-18",
-   "old_data": false
-  },
-  {
-   "title": "Civil Engineer QA/QC CTG - Committed To Good Port-au-Prince Mid - Mid level",
-   "link": "https://www.impactpool.org/jobs/1248482",
-   "source": "Impactpool",
-   "origin": "Impactpool",
-   "score": 30,
-   "track": "construction",
-   "reasons": [
-    "civil engineer"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Civil Engineer QA/QC CTG - Committed To Good Port-au-Prince Mid - Mid level",
-   "first_seen": "2026-11-17",
    "old_data": false
   },
   {
@@ -5956,6 +5941,23 @@
    "old_data": false
   },
   {
+   "title": "Civil Engineer QA/QC CTG - Committed To Good Port-au-Prince Mid - Mid level",
+   "link": "https://www.impactpool.org/jobs/1248482",
+   "source": "Impactpool",
+   "origin": "Impactpool",
+   "score": 30,
+   "track": "construction",
+   "reasons": [
+    "civil engineer"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Civil Engineer QA/QC CTG - Committed To Good Port-au-Prince Mid - Mid level",
+   "first_seen": "2026-11-17",
+   "old_data": false
+  },
+  {
    "title": "Quantity Surveyor/Change Management Stegra Stockholm | Boden Mid - Mid level",
    "link": "https://www.impactpool.org/jobs/1248470",
    "source": "Impactpool",
@@ -6007,6 +6009,23 @@
    "old_data": false
   },
   {
+   "title": "E T Consultant - Environmental Engineer World Bank Group Dhaka EC2 - Extended Term Consultant Appointment - Consultancy",
+   "link": "https://www.impactpool.org/jobs/1248012",
+   "source": "Impactpool",
+   "origin": "Impactpool",
+   "score": 30,
+   "track": "construction",
+   "reasons": [
+    "engineer"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "E T Consultant - Environmental Engineer World Bank Group Dhaka EC2 - Extended Term Consultant Appointment - Consultancy",
+   "first_seen": "2026-11-22",
+   "old_data": false
+  },
+  {
    "title": "Admin and Procurement Assistant",
    "link": "https://www.devex.com/jobs/admin-and-procurement-assistant-1474802",
    "source": "Devex",
@@ -6020,23 +6039,6 @@
    "status": "CHECK",
    "why": "deadline not found - open the vacancy",
    "snippet": "Cameroon | West Africa Entry-level",
-   "first_seen": "2026-11-21",
-   "old_data": false
-  },
-  {
-   "title": "Civil Engineer",
-   "link": "https://www.devex.com/jobs/civil-engineer-1474799",
-   "source": "Devex",
-   "origin": "Devex",
-   "score": 30,
-   "track": "construction",
-   "reasons": [
-    "civil engineer"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Zimbabwe | Southern Africa Mid-level",
    "first_seen": "2026-11-21",
    "old_data": false
   },
@@ -6076,7 +6078,7 @@
   },
   {
    "title": "LFM Country Programme Coordinator",
-   "link": "https://www.mojposao.ba/posao/cdac5db9-e33c-11f1-8233-42010a9c001b/lfm-country-programme-coordinator?source=search_results&searchId=dedfebad-10ee-4847-a149-a9a20c88e957&searchSource=legacy",
+   "link": "https://www.mojposao.ba/posao/cdac5db9-e33c-11f1-8233-42010a9c001b/lfm-country-programme-coordinator?source=search_results&searchId=0d10a71d-5bb0-4de3-93cb-5f2496f6da9d&searchSource=legacy",
    "source": "MojPosao",
    "origin": "MojPosao",
    "score": 30,
@@ -6093,7 +6095,7 @@
   },
   {
    "title": "Proizvodni inženjer",
-   "link": "https://www.mojposao.ba/posao/8ff54d3b-e4e7-11f1-8233-42010a9c001b/proizvodni-inzenjer?source=search_results&searchId=dedfebad-10ee-4847-a149-a9a20c88e957&searchSource=legacy",
+   "link": "https://www.mojposao.ba/posao/8ff54d3b-e4e7-11f1-8233-42010a9c001b/proizvodni-inzenjer?source=search_results&searchId=0d10a71d-5bb0-4de3-93cb-5f2496f6da9d&searchSource=legacy",
    "source": "MojPosao",
    "origin": "MojPosao",
    "score": 30,
@@ -6110,7 +6112,7 @@
   },
   {
    "title": "Inžinjer elektro održavanja (m/ž)",
-   "link": "https://www.mojposao.ba/posao/212432ca-e4f2-11f1-8233-42010a9c001b/inzinjer-elektro-odrzavanja-mz?source=search_results&searchId=dedfebad-10ee-4847-a149-a9a20c88e957&searchSource=legacy",
+   "link": "https://www.mojposao.ba/posao/212432ca-e4f2-11f1-8233-42010a9c001b/inzinjer-elektro-odrzavanja-mz?source=search_results&searchId=0d10a71d-5bb0-4de3-93cb-5f2496f6da9d&searchSource=legacy",
    "source": "MojPosao",
    "origin": "MojPosao",
    "score": 30,
@@ -6127,7 +6129,7 @@
   },
   {
    "title": "Pricing Manager - Commercial Architect",
-   "link": "https://www.mojposao.ba/posao/afbab08f-dcec-11f1-a8c0-42010a9c001a/pricing-manager---commercial-architect?source=search_results&searchId=dedfebad-10ee-4847-a149-a9a20c88e957&searchSource=legacy",
+   "link": "https://www.mojposao.ba/posao/afbab08f-dcec-11f1-a8c0-42010a9c001a/pricing-manager---commercial-architect?source=search_results&searchId=0d10a71d-5bb0-4de3-93cb-5f2496f6da9d&searchSource=legacy",
    "source": "MojPosao",
    "origin": "MojPosao",
    "score": 30,
@@ -6144,7 +6146,7 @@
   },
   {
    "title": "Solutions Architect - Consulting & Solutioning Manager",
-   "link": "https://www.mojposao.ba/posao/ec53e981-dcec-11f1-a8c0-42010a9c001a/solutions-architect---consulting--solutioning-manager?source=search_results&searchId=dedfebad-10ee-4847-a149-a9a20c88e957&searchSource=legacy",
+   "link": "https://www.mojposao.ba/posao/ec53e981-dcec-11f1-a8c0-42010a9c001a/solutions-architect---consulting--solutioning-manager?source=search_results&searchId=0d10a71d-5bb0-4de3-93cb-5f2496f6da9d&searchSource=legacy",
    "source": "MojPosao",
    "origin": "MojPosao",
    "score": 30,
@@ -6633,26 +6635,6 @@
    "why": "for Pakistani nationals only",
    "snippet": "Islamabad, Pakistan, The Islamic Rep. DEADLINE FOR APPLICATIONS 1 December 2026-23:59-GMT+05:00 Pakistan Standard Time (Karachi) WFP celebrates and embraces diversity. It is committed to the principle of equal employment opportunity for all its employees and encourages qualified candidates to apply ",
    "first_seen": "2026-11-16",
-   "old_data": false
-  },
-  {
-   "title": "UNFPA Egypt CO - National Consultancy - Demographic resilience reviews and foresight-based scenario planning in Egypt",
-   "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/38075/",
-   "source": "UNFPA",
-   "origin": "UNFPA",
-   "score": 60,
-   "track": "project_management",
-   "reasons": [
-    "infrastructure",
-    "planning",
-    "implementation",
-    "supply"
-   ],
-   "deadline": "2026-11-22",
-   "status": "NOT ELIGIBLE",
-   "why": "local post outside BiH",
-   "snippet": "Cairo, Egypt Hiring Office: UNFPA, Egypt Purpose of consultancy: Background Demographic change occurs through shifts in population size, composition (by age and sex), and territorial distribution and manifests, for example, in population ageing, youth bulge, changing household structure, distinct mi",
-   "first_seen": "2026-11-15",
    "old_data": false
   },
   {
@@ -7400,6 +7382,24 @@
    "old_data": false
   },
   {
+   "title": "Reports Assistant--Fixed Term Contract -planning-For internal candidates only -FO West bank-Grade",
+   "link": "https://careers.un.org/jobSearchDescription/288665?language=en",
+   "source": "UN Careers",
+   "origin": "UN Careers",
+   "score": 40,
+   "track": "project_management",
+   "reasons": [
+    "works",
+    "planning"
+   ],
+   "deadline": "2026-12-05",
+   "status": "NOT ELIGIBLE",
+   "why": "internal candidates only",
+   "snippet": "Level : Job ID : 288665 Job Network : Economic, Social and Development Job Family : Statistics Department/Office : United Nations Relief and Works Agency (UNRWA) Duty Station : FO West Bank Staffing Exercise : undefined Posted Date : 11/22/2026 00:00:00 AM (New York time) Deadline : 12/05/2026 23:59",
+   "first_seen": "2026-11-22",
+   "old_data": false
+  },
+  {
    "title": "MEAL Officer (Partnership) for nationals only",
    "link": "https://hcri.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8922/",
    "source": "Save the Children",
@@ -7640,31 +7640,14 @@
    "snippet": "National Consultant on Coordination and Monitoring",
    "first_seen": "2026-11-13",
    "old_data": false
-  },
-  {
-   "title": "Job is closed: Field Project Assistant (Shelter/NFI) IOM - International Organization for Migration Cox's Bazaar GS-5, General Service - No need for Higher Education - Locally recruited position - Adm",
-   "link": "https://www.impactpool.org/jobs/1248022",
-   "source": "Impactpool",
-   "origin": "Impactpool",
-   "score": 30,
-   "track": "construction",
-   "reasons": [
-    "shelter"
-   ],
-   "deadline": "",
-   "status": "NOT ELIGIBLE",
-   "why": "local post outside BiH",
-   "snippet": "Job is closed: Field Project Assistant (Shelter/NFI) IOM - International Organization for Migration Cox's Bazaar GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support",
-   "first_seen": "2026-11-15",
-   "old_data": false
   }
  ],
  "sources": {
   "UNDP": {
    "status": "OK",
-   "items": 91,
+   "items": 89,
    "matches": 15,
-   "last_ok": "2026-11-22 06:56 UTC",
+   "last_ok": "2026-11-22 19:44 UTC",
    "fails_in_a_row": 0,
    "detail": "estm.fa.em2.oraclecloud.com",
    "fix": "",
@@ -7672,9 +7655,9 @@
   },
   "UNFPA": {
    "status": "OK",
-   "items": 34,
-   "matches": 3,
-   "last_ok": "2026-11-22 06:56 UTC",
+   "items": 32,
+   "matches": 2,
+   "last_ok": "2026-11-22 19:44 UTC",
    "fails_in_a_row": 0,
    "detail": "estm.fa.em2.oraclecloud.com",
    "fix": "",
@@ -7684,7 +7667,7 @@
    "status": "OK",
    "items": 42,
    "matches": 5,
-   "last_ok": "2026-11-22 06:56 UTC",
+   "last_ok": "2026-11-22 19:44 UTC",
    "fails_in_a_row": 0,
    "detail": "estm.fa.em2.oraclecloud.com",
    "fix": "",
@@ -7692,9 +7675,9 @@
   },
   "IOM": {
    "status": "OK",
-   "items": 157,
+   "items": 155,
    "matches": 21,
-   "last_ok": "2026-11-22 06:56 UTC",
+   "last_ok": "2026-11-22 19:44 UTC",
    "fails_in_a_row": 0,
    "detail": "fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com",
    "fix": "",
@@ -7704,7 +7687,7 @@
    "status": "OK",
    "items": 99,
    "matches": 26,
-   "last_ok": "2026-11-22 06:56 UTC",
+   "last_ok": "2026-11-22 19:44 UTC",
    "fails_in_a_row": 0,
    "detail": "hcri.fa.em2.oraclecloud.com",
    "fix": "",
@@ -7714,7 +7697,7 @@
    "status": "OK",
    "items": 89,
    "matches": 14,
-   "last_ok": "2026-11-22 06:56 UTC",
+   "last_ok": "2026-11-22 19:44 UTC",
    "fails_in_a_row": 0,
    "detail": "wfp.wd3.myworkdayjobs.com",
    "fix": "",
@@ -7722,9 +7705,9 @@
   },
   "UNICEF": {
    "status": "OK",
-   "items": 209,
+   "items": 211,
    "matches": 154,
-   "last_ok": "2026-11-22 06:56 UTC",
+   "last_ok": "2026-11-22 19:44 UTC",
    "fails_in_a_row": 0,
    "detail": "https://careers.pageuppeople.com/671/cw/en/rss",
    "fix": "",
@@ -7732,9 +7715,9 @@
   },
   "UN Careers": {
    "status": "OK",
-   "items": 447,
-   "matches": 50,
-   "last_ok": "2026-11-22 06:56 UTC",
+   "items": 451,
+   "matches": 51,
+   "last_ok": "2026-11-22 19:44 UTC",
    "fails_in_a_row": 0,
    "detail": "https://careers.un.org/jobfeed",
    "fix": "",
@@ -7742,9 +7725,9 @@
   },
   "UNOPS": {
    "status": "OK",
-   "items": 99,
+   "items": 97,
    "matches": 41,
-   "last_ok": "2026-11-22 06:56 UTC",
+   "last_ok": "2026-11-22 19:44 UTC",
    "fails_in_a_row": 0,
    "detail": "https://rss.careers.unops.org/",
    "fix": "",
@@ -7754,7 +7737,7 @@
    "status": "OK",
    "items": 32,
    "matches": 2,
-   "last_ok": "2026-11-22 06:56 UTC",
+   "last_ok": "2026-11-22 19:44 UTC",
    "fails_in_a_row": 0,
    "detail": "https://careers.unido.org/search/?q=&sortColumn=referencedate&sortDirection=desc",
    "fix": "",
@@ -7764,7 +7747,7 @@
    "status": "OK",
    "items": 50,
    "matches": 6,
-   "last_ok": "2026-11-22 06:56 UTC",
+   "last_ok": "2026-11-22 19:44 UTC",
    "fails_in_a_row": 0,
    "detail": "https://careers.unesco.org/search/?q=&sortColumn=referencedate&sortDirection=desc",
    "fix": "",
@@ -7774,7 +7757,7 @@
    "status": "OK",
    "items": 48,
    "matches": 10,
-   "last_ok": "2026-11-22 06:56 UTC",
+   "last_ok": "2026-11-22 19:44 UTC",
    "fails_in_a_row": 0,
    "detail": "https://jobs.ebrd.com/search/?q=&sortColumn=referencedate&sortDirection=desc",
    "fix": "",
@@ -7784,7 +7767,7 @@
    "status": "OK",
    "items": 78,
    "matches": 7,
-   "last_ok": "2026-11-22 06:56 UTC",
+   "last_ok": "2026-11-22 19:44 UTC",
    "fails_in_a_row": 0,
    "detail": "worldbankgroup.csod.com",
    "fix": "",
@@ -7794,7 +7777,7 @@
    "status": "OK",
    "items": 0,
    "matches": 0,
-   "last_ok": "2026-11-22 06:56 UTC",
+   "last_ok": "2026-11-22 19:44 UTC",
    "fails_in_a_row": 0,
    "detail": "erecruitment.eib.org",
    "fix": "",
@@ -7804,7 +7787,7 @@
    "status": "OK",
    "items": 20,
    "matches": 1,
-   "last_ok": "2026-11-22 06:56 UTC",
+   "last_ok": "2026-11-22 19:44 UTC",
    "fails_in_a_row": 0,
    "detail": "https://vacancies.osce.org/latest-jobs",
    "fix": "",
@@ -7814,7 +7797,7 @@
    "status": "OK",
    "items": 11,
    "matches": 2,
-   "last_ok": "2026-11-22 06:56 UTC",
+   "last_ok": "2026-11-22 19:44 UTC",
    "fails_in_a_row": 0,
    "detail": "https://talents.coe.int/en_GB/careersmarketplace/SearchJobs/feed/?listFilterMode=1&jobRecordsPerPage=200",
    "fix": "",
@@ -7825,7 +7808,7 @@
    "items": 0,
    "matches": 0,
    "last_ok": "never",
-   "fails_in_a_row": 27,
+   "fails_in_a_row": 28,
    "detail": "RuntimeError: 0 job IDs on the list pages (layout changed or built by JavaScript) ",
    "fix": "Page layout changed or needs JavaScript. Open Manual; update job_link_contains or set \"off\": true.",
    "manual": "https://jobs.giz.de/index.php?ac=search_result&language=2"
@@ -7835,7 +7818,7 @@
    "items": 0,
    "matches": 0,
    "last_ok": "never",
-   "fails_in_a_row": 27,
+   "fails_in_a_row": 28,
    "detail": "add the repository secret RELIEFWEB_APPNAME (see README, section ReliefWeb)",
    "fix": "See README > ReliefWeb (5 minutes, once).",
    "manual": "https://reliefweb.int/jobs"
@@ -7845,7 +7828,7 @@
    "items": 0,
    "matches": 0,
    "last_ok": "never",
-   "fails_in_a_row": 27,
+   "fails_in_a_row": 28,
    "detail": "add the repository secret RELIEFWEB_APPNAME (see README, section ReliefWeb)",
    "fix": "See README > ReliefWeb (5 minutes, once).",
    "manual": "https://reliefweb.int/jobs?search=country.exact:%22Bosnia%20and%20Herzegovina%22"
@@ -7854,7 +7837,7 @@
    "status": "OK",
    "items": 40,
    "matches": 29,
-   "last_ok": "2026-11-22 06:56 UTC",
+   "last_ok": "2026-11-22 19:44 UTC",
    "fails_in_a_row": 0,
    "detail": "https://www.impactpool.org/search?q=construction",
    "fix": "",
@@ -7863,8 +7846,8 @@
   "Devex": {
    "status": "OK",
    "items": 20,
-   "matches": 3,
-   "last_ok": "2026-11-22 06:56 UTC",
+   "matches": 2,
+   "last_ok": "2026-11-22 19:44 UTC",
    "fails_in_a_row": 0,
    "detail": "https://www.devex.com/jobs/feed.rss",
    "fix": "",
@@ -7874,7 +7857,7 @@
    "status": "OK",
    "items": 20,
    "matches": 2,
-   "last_ok": "2026-11-22 06:56 UTC",
+   "last_ok": "2026-11-22 19:44 UTC",
    "fails_in_a_row": 0,
    "detail": "https://posao.klix.ba/oglasi",
    "fix": "",
@@ -7884,7 +7867,7 @@
    "status": "OK",
    "items": 86,
    "matches": 5,
-   "last_ok": "2026-11-22 06:56 UTC",
+   "last_ok": "2026-11-22 19:44 UTC",
    "fails_in_a_row": 0,
    "detail": "https://www.mojposao.ba/pretraga-poslova?sortBy=adtype",
    "fix": "",
