@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24 09:58 UTC",
+ "updated": "2026-11-24 22:30 UTC",
  "jobs": [
   {
    "title": "Senior Manager, Transformation Project Management - FMS SaaS",
@@ -165,6 +165,78 @@
    "old_data": false
   },
   {
+   "title": "Programme Associate (Grant Performance and Monitoring) [Open to internal and external applicants]",
+   "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38220/",
+   "source": "UNDP",
+   "origin": "UNDP",
+   "score": 85,
+   "track": "project_management",
+   "reasons": [
+    "building",
+    "monitoring",
+    "implementation",
+    "programme manager",
+    "contracts",
+    "procurement",
+    "supply",
+    "+specialist"
+   ],
+   "deadline": "2026-12-02",
+   "status": "OK",
+   "why": "no blocker found",
+   "snippet": "Harare, Zimbabwe Tiered Approach In line with the commitment to safeguard capacity and support personnel already in the Organization, a majority of UNDP UNCDF/UNV vacancies are advertised using a tiered application process whereby: Tier 0 : UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-te",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
+   "title": "Procurement Associate – Malaria and RSSH (FA) [Open to affected staff and personnel of the PMU, UNDP Zimbabwe only]",
+   "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38221/",
+   "source": "UNDP",
+   "origin": "UNDP",
+   "score": 85,
+   "track": "procurement_contracts",
+   "reasons": [
+    "building",
+    "works",
+    "implementation",
+    "monitoring",
+    "planning",
+    "procurement",
+    "contracts",
+    "supply"
+   ],
+   "deadline": "2026-12-02",
+   "status": "OK",
+   "why": "no blocker found",
+   "snippet": "Harare, Zimbabwe Tiered Approach In line with the commitment to safeguard capacity and support personnel already in the Organization, a majority of UNDP UNCDF/UNV vacancies are advertised using a tiered application process whereby: Tier 0 : UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-te",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
+   "title": "Monitoring and Evaluation Specialist [Open to affected staff and personnel of the PMU, UNDP ZIMBABWE]",
+   "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38251/",
+   "source": "UNDP",
+   "origin": "UNDP",
+   "score": 85,
+   "track": "project_management",
+   "reasons": [
+    "building",
+    "monitoring",
+    "implementation",
+    "programme manager",
+    "contracts",
+    "procurement",
+    "supply",
+    "+specialist"
+   ],
+   "deadline": "2026-12-02",
+   "status": "OK",
+   "why": "no blocker found",
+   "snippet": "Harare, Zimbabwe Tiered Approach In line with the commitment to safeguard capacity and support personnel already in the Organization, a majority of UNDP UNCDF/UNV vacancies are advertised using a tiered application process whereby: Tier 0 : UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-te",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
    "title": "Senior Project Associate –Infrastructure Support",
    "link": "https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/24182/",
    "source": "IOM",
@@ -308,25 +380,25 @@
    "old_data": false
   },
   {
-   "title": "Project Manager - EF Cairo/Kafr Elsheikh",
-   "link": "https://hcri.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/17334/",
-   "source": "Save the Children",
-   "origin": "Save the Children",
-   "score": 80,
+   "title": "Senior Planning, Monitoring, and Evaluation Associate",
+   "link": "https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/24191/",
+   "source": "IOM",
+   "origin": "IOM",
+   "score": 85,
    "track": "project_management",
    "reasons": [
-    "project manager",
-    "implementation",
+    "building",
+    "monitoring",
     "planning",
+    "implementation",
     "project management",
-    "contracts",
-    "supply"
+    "+senior"
    ],
-   "deadline": "2026-11-24",
+   "deadline": "2026-12-08",
    "status": "OK",
    "why": "no blocker found",
-   "snippet": "Egypt JOB TITLE: Project Manager (PM) (Subject to Funding from Donor) TEAM/PROGRAMME: Program Operations LOCATION: Cairo or Kafr Elsheikh GRADE : 2 TYPE OF CONTRACT: Fixed Term CHILD SAFEGUARDING: (select only one) Level 3: the post holder will have contact with children and/or young people either f",
-   "first_seen": "2026-11-17",
+   "snippet": "Cairo, Egypt Under the direct supervision of the Regional Planning, Monitoring, and Evaluation Officer (RPMEO), the incumbent will support the Regional Planning, Monitoring, and Evaluation Unit (RPMEU), which operates under the guidance of the Strategic Planning and Results Division (SRD) in the Off",
+   "first_seen": "2026-11-24",
    "old_data": false
   },
   {
@@ -540,6 +612,29 @@
    "old_data": false
   },
   {
+   "title": "MEAL Coordinator",
+   "link": "https://hcri.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18204/",
+   "source": "Save the Children",
+   "origin": "Save the Children",
+   "score": 80,
+   "track": "project_management",
+   "reasons": [
+    "coordinator",
+    "implementation",
+    "monitoring",
+    "planning",
+    "project management",
+    "+senior",
+    "+specialist"
+   ],
+   "deadline": "2026-12-03",
+   "status": "OK",
+   "why": "no blocker found",
+   "snippet": "Sudan KEY AREAS OF ACCOUNTABILITY: Develop a context-specific strategy for rolling-out MEAL system in all areas under the responsibility; Ensure that MEAL, Operations and Project teams has full understanding of all essential MEAL tools and systems, and tools and systems are consistently used across ",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
    "title": "Supply Chain Coordinator (National staff only)",
    "link": "https://hcri.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18254/",
    "source": "Save the Children",
@@ -558,6 +653,30 @@
    "why": "no blocker found",
    "snippet": "Ukraine ROLE PURPOSE: Responsible for supporting Supply Chain services and the procurement of goods and services for SCI EAO. The post holder ensures transparent, effective, efficient and accountable procurement for all funding sources, and the availability of assets, equipment, supplies, materials ",
    "first_seen": "2026-11-20",
+   "old_data": false
+  },
+  {
+   "title": "Space Planner & Contracts Analyst, Facilities and Administrative Services Branch (FASB), Division for Management Services (DMS), New York, P-2",
+   "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/38234/",
+   "source": "UNFPA",
+   "origin": "UNFPA",
+   "score": 80,
+   "track": "facilities",
+   "reasons": [
+    "building",
+    "construction",
+    "works",
+    "coordinator",
+    "implementation",
+    "planning",
+    "contracts",
+    "facilities"
+   ],
+   "deadline": "2026-12-10",
+   "status": "OK",
+   "why": "no blocker found",
+   "snippet": "New York, United States The Position: This position is located in the Facilities and Administrative Services Branch (FASB) within the Division for Management Services (DMS). FASB provides and oversees a broad range of support services relating to facilities and asset management, travel, mail & pouch",
+   "first_seen": "2026-11-24",
    "old_data": false
   },
   {
@@ -1113,6 +1232,46 @@
    "old_data": false
   },
   {
+   "title": "Monitoring & Reporting Officer (National Only)",
+   "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38250/",
+   "source": "UNDP",
+   "origin": "UNDP",
+   "score": 60,
+   "track": "project_management",
+   "reasons": [
+    "monitoring",
+    "coordinator",
+    "implementation",
+    "planning"
+   ],
+   "deadline": "2026-12-02",
+   "status": "OK",
+   "why": "no blocker found",
+   "snippet": "Pemba, Mozambique Background and organization context Office for the Coordination of Humanitarian Affairs (OCHA) is the part of the United Nations Secretariat responsible for bringing together humanitarian actors to ensure a coherent response to emergencies. OCHA's mission is to mobilize and coordin",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
+   "title": "National Monitoring and Evaluation Officer",
+   "link": "https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/24238/",
+   "source": "IOM",
+   "origin": "IOM",
+   "score": 60,
+   "track": "project_management",
+   "reasons": [
+    "monitoring",
+    "implementation",
+    "planning",
+    "programme manager"
+   ],
+   "deadline": "2026-12-08",
+   "status": "OK",
+   "why": "no blocker found",
+   "snippet": "Freetown, Sierra Leone Under the overall supervision of the Chief of Mission (COM) or the Head of Office in Sierra Leone and in close coordination with the Regional Monitoring and Evaluation and Risk Management Officer at the Regional Office and relevant Units at Headquarters, the Monitoring and Eva",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
    "title": "Supply Chain Assistant - Aswan",
    "link": "https://hcri.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18172/",
    "source": "Save the Children",
@@ -1130,6 +1289,26 @@
    "why": "no blocker found",
    "snippet": "Egypt JOB TITLE: Supply Chain Assistant TEAM/PROGRAMME: Program Operations - Supply Chain Department LOCATION: Aswan Field Office GRADE: 5 TYPE OF CONTRACT: National – Fixed (12 months) CHILD SAFEGUARDING: Level 3: the post holder will have contact with children and/or young people either frequently",
    "first_seen": "2026-11-17",
+   "old_data": false
+  },
+  {
+   "title": "UN Women: International Gender Responsive Planning and Budgeting Consultant, Home-based with travels to Turkiye",
+   "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/38162/",
+   "source": "UN Women",
+   "origin": "UN Women",
+   "score": 55,
+   "track": "construction",
+   "reasons": [
+    "building",
+    "works",
+    "planning",
+    "+home-based"
+   ],
+   "deadline": "2026-12-09",
+   "status": "OK",
+   "why": "no blocker found",
+   "snippet": "Türkiye Background: UN Women exists to advance women’s rights, gender equality and the empowerment of all women and girls. As the lead UN entity on gender equality and secretariat of the UN Commission on the Status of Women, UN Women shifts laws, institutions, social behaviours and services to close",
+   "first_seen": "2026-11-24",
    "old_data": false
   },
   {
@@ -1906,6 +2085,23 @@
    "old_data": false
   },
   {
+   "title": "Consultant for Green and Sustainable Finance Implementation in Tunisia",
+   "link": "https://careers.un.org/jobSearchDescription/288728?language=en",
+   "source": "UN Careers",
+   "origin": "UN Careers",
+   "score": 30,
+   "track": "project_management",
+   "reasons": [
+    "implementation"
+   ],
+   "deadline": "2026-11-30",
+   "status": "OK",
+   "why": "no blocker found",
+   "snippet": "Level : CON Job ID : 288728 Job Network : Job Family : Department/Office : Economic Commission for Africa Duty Station : ADDIS ABABA Staffing Exercise : undefined Posted Date : 11/24/2026 00:00:00 AM (New York time) Deadline : 11/30/2026 23:59:59 PM (New York time)",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
    "title": "Environmental Restoration Technical consultant",
    "link": "https://careers.un.org/jobSearchDescription/287765?language=en",
    "source": "UN Careers",
@@ -2090,6 +2286,54 @@
    "why": "deadline not found - open the vacancy",
    "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
    "first_seen": "2026-11-18",
+   "old_data": false
+  },
+  {
+   "title": "Consultant to strengthen inclusive social and child protection services and prevent institutionalization of children , Child Protection Section, 18 moths, Sarajevo, Bosnia and Herzegovina, Home based ",
+   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597179",
+   "source": "UNICEF",
+   "origin": "UNICEF",
+   "score": 85,
+   "track": "project_management",
+   "reasons": [
+    "works",
+    "implementation",
+    "planning",
+    "+bosnia",
+    "+sarajevo",
+    "+bih",
+    "+home-based",
+    "+home based"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Contract Duration: 18 months Working arrangement: Home-based ************************************************************************************ UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childh",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
+   "title": "International Cold Chain Systems Strengthening and Optimisation Consultant (office based for 12 months)",
+   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597181",
+   "source": "UNICEF",
+   "origin": "UNICEF",
+   "score": 85,
+   "track": "construction",
+   "reasons": [
+    "building",
+    "infrastructure",
+    "rehabilitation",
+    "works",
+    "monitoring",
+    "procurement",
+    "supply",
+    "solar"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
+   "first_seen": "2026-11-24",
    "old_data": false
   },
   {
@@ -2279,6 +2523,28 @@
    "old_data": false
   },
   {
+   "title": "Ministry of Social Development (MoSD) Monitoring & Evaluation (M&E) Consultant , Social Policy Section, 6 moths, Jerusalem Ramallah_MoSD head quarter, State of Palestine, Office Based (Nationals only)",
+   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597166",
+   "source": "UNICEF",
+   "origin": "UNICEF",
+   "score": 80,
+   "track": "project_management",
+   "reasons": [
+    "building",
+    "works",
+    "monitoring",
+    "implementation",
+    "project management",
+    "procurement"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Contract Duration: 6 months Working arrangement: Office-based ************************************************************************************ UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early child",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
    "title": "Chief WASH, P-5, Fixed Term Position, 00047150, Mogadiscio, Somalia - ESAR",
    "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597126",
    "source": "UNICEF",
@@ -2323,48 +2589,6 @@
    "why": "deadline not found - open the vacancy",
    "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
    "first_seen": "2026-11-18",
-   "old_data": false
-  },
-  {
-   "title": "Planning, Monit. & Evaluation Specialist (P-3), TA, 6 months, #139117, Tripoli - Libya, MENA",
-   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597027",
-   "source": "UNICEF",
-   "origin": "UNICEF",
-   "score": 80,
-   "track": "project_management",
-   "reasons": [
-    "works",
-    "planning",
-    "implementation",
-    "monitoring",
-    "+p-3",
-    "+senior",
-    "+specialist"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
-   "first_seen": "2026-11-17",
-   "old_data": false
-  },
-  {
-   "title": "Water & Shelter, Infrastructure (WASI) Officer (Engineer) DRC - Danish Refugee Council Mid - Mid level",
-   "link": "https://www.impactpool.org/jobs/1249352",
-   "source": "Impactpool",
-   "origin": "Impactpool",
-   "score": 80,
-   "track": "construction",
-   "reasons": [
-    "engineer",
-    "infrastructure",
-    "shelter"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Water & Shelter, Infrastructure (WASI) Officer (Engineer) DRC - Danish Refugee Council Mid - Mid level",
-   "first_seen": "2026-11-24",
    "old_data": false
   },
   {
@@ -2481,6 +2705,29 @@
    "old_data": false
   },
   {
+   "title": "Programme Specialist (P-3), TA (6 months), #134375, Ouagadougou, Burkina Faso-WCAR",
+   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597176",
+   "source": "UNICEF",
+   "origin": "UNICEF",
+   "score": 65,
+   "track": "project_management",
+   "reasons": [
+    "building",
+    "works",
+    "implementation",
+    "monitoring",
+    "planning",
+    "+p-3",
+    "+specialist"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
    "title": "Programme Specialist (Climate & Resilience), P-3, Fixed Term, Tadjourah, Djibouti, #00139247",
    "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597150",
    "source": "UNICEF",
@@ -2494,6 +2741,29 @@
     "monitoring",
     "planning",
     "+p-3",
+    "+specialist"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
+   "title": "Immunization Officer, (NO-2), FT, #00132842, Kabul, Afghanistan",
+   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597170",
+   "source": "UNICEF",
+   "origin": "UNICEF",
+   "score": 65,
+   "track": "project_management",
+   "reasons": [
+    "works",
+    "implementation",
+    "monitoring",
+    "planning",
+    "project management",
+    "supply",
     "+specialist"
    ],
    "deadline": "",
@@ -2550,29 +2820,6 @@
    "old_data": false
   },
   {
-   "title": "Child Protection Specialist, P-3, Fixed Term Position, #00052400, Kigali, Rwanda - ESAR",
-   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597022",
-   "source": "UNICEF",
-   "origin": "UNICEF",
-   "score": 65,
-   "track": "project_management",
-   "reasons": [
-    "building",
-    "works",
-    "implementation",
-    "monitoring",
-    "planning",
-    "+p-3",
-    "+specialist"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
-   "first_seen": "2026-11-17",
-   "old_data": false
-  },
-  {
    "title": "International Consultant to Support the development and Delivery of the Professional Capacity Building Programme, Tashkent, Uzbekistan, 11.7 months, Remote with travel",
    "link": "https://careers.pageuppeople.com/671/cw/en-us/job/596964",
    "source": "UNICEF",
@@ -2591,52 +2838,6 @@
    "why": "deadline not found - open the vacancy",
    "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
    "first_seen": "2026-11-12",
-   "old_data": false
-  },
-  {
-   "title": "Child Protection Specialist, NO-3, FT, #136372, Qamishli, Syria - MENA",
-   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/596899",
-   "source": "UNICEF",
-   "origin": "UNICEF",
-   "score": 65,
-   "track": "project_management",
-   "reasons": [
-    "building",
-    "works",
-    "implementation",
-    "monitoring",
-    "planning",
-    "project management",
-    "+specialist"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
-   "first_seen": "2026-11-10",
-   "old_data": false
-  },
-  {
-   "title": "Emergency Specialist, P-3, Fixed Term Position, #00134538, Regional Services-Emergency Sec., Bangkok - Thailand, APR",
-   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/596909",
-   "source": "UNICEF",
-   "origin": "UNICEF",
-   "score": 65,
-   "track": "project_management",
-   "reasons": [
-    "building",
-    "works",
-    "implementation",
-    "monitoring",
-    "planning",
-    "+p-3",
-    "+specialist"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
-   "first_seen": "2026-11-10",
    "old_data": false
   },
   {
@@ -2713,6 +2914,25 @@
    "why": "deadline not found - open the vacancy",
    "snippet": "Closing tomorrow: Local Individual Contractor (Civil Work Engineer) UNODC - United Nations Office on Drugs and Crime Remote | Bishkek CON",
    "first_seen": "2026-11-17",
+   "old_data": false
+  },
+  {
+   "title": "New job: Senior Project Manager (Infrastructure) UNOPS - United Nations Office for Project Services N'Djamena ICS 11",
+   "link": "https://www.impactpool.org/jobs/1249737",
+   "source": "Impactpool",
+   "origin": "Impactpool",
+   "score": 65,
+   "track": "construction",
+   "reasons": [
+    "infrastructure",
+    "project manager",
+    "+senior"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "New job: Senior Project Manager (Infrastructure) UNOPS - United Nations Office for Project Services N'Djamena ICS 11",
+   "first_seen": "2026-11-24",
    "old_data": false
   },
   {
@@ -2950,6 +3170,24 @@
    "old_data": false
   },
   {
+   "title": "Project Manager (Implementation)",
+   "link": "https://careers.unops.org/careersmarketplace/JobDetail/5219",
+   "source": "UNOPS",
+   "origin": "UNOPS",
+   "score": 60,
+   "track": "project_management",
+   "reasons": [
+    "implementation",
+    "project manager"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Project Manager (Implementation)",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
    "title": "Construction Management Lead Engineer",
    "link": "https://careers.unops.org/careersmarketplace/JobDetail/5033",
    "source": "UNOPS",
@@ -3076,7 +3314,25 @@
    "old_data": false
   },
   {
-   "title": "New job: Construction Management Lead Engineer UNOPS - United Nations Office for Project Services East Jerusalem ICSC-10 - Mid level",
+   "title": "New job: Construction Management Associate Engineer UNOPS - United Nations Office for Project Services Tshikapa ICS 06",
+   "link": "https://www.impactpool.org/jobs/1249730",
+   "source": "Impactpool",
+   "origin": "Impactpool",
+   "score": 60,
+   "track": "construction",
+   "reasons": [
+    "construction",
+    "engineer"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "New job: Construction Management Associate Engineer UNOPS - United Nations Office for Project Services Tshikapa ICS 06",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
+   "title": "Construction Management Lead Engineer UNOPS - United Nations Office for Project Services East Jerusalem ICSC-10 - Mid level",
    "link": "https://www.impactpool.org/jobs/1249524",
    "source": "Impactpool",
    "origin": "Impactpool",
@@ -3089,7 +3345,7 @@
    "deadline": "",
    "status": "CHECK",
    "why": "deadline not found - open the vacancy",
-   "snippet": "New job: Construction Management Lead Engineer UNOPS - United Nations Office for Project Services East Jerusalem ICSC-10 - Mid level",
+   "snippet": "Construction Management Lead Engineer UNOPS - United Nations Office for Project Services East Jerusalem ICSC-10 - Mid level",
    "first_seen": "2026-11-23",
    "old_data": false
   },
@@ -3148,24 +3404,6 @@
    "old_data": false
   },
   {
-   "title": "Shelter Project Engineer CTG - Committed To Good Badghis | Kunduz Mid - Mid level",
-   "link": "https://www.impactpool.org/jobs/1249343",
-   "source": "Impactpool",
-   "origin": "Impactpool",
-   "score": 60,
-   "track": "construction",
-   "reasons": [
-    "engineer",
-    "shelter"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Shelter Project Engineer CTG - Committed To Good Badghis | Kunduz Mid - Mid level",
-   "first_seen": "2026-11-24",
-   "old_data": false
-  },
-  {
    "title": "Field Monitoring Engineer CTG - Committed To Good Ukraine Mid - Mid level",
    "link": "https://www.impactpool.org/jobs/1207655",
    "source": "Impactpool",
@@ -3181,6 +3419,112 @@
    "why": "deadline not found - open the vacancy",
    "snippet": "Field Monitoring Engineer CTG - Committed To Good Ukraine Mid - Mid level",
    "first_seen": "2026-11-22",
+   "old_data": false
+  },
+  {
+   "title": "Shelter Project Engineer CTG - Committed To Good Kunduz | Badghis Mid - Mid level",
+   "link": "https://www.impactpool.org/jobs/1249343",
+   "source": "Impactpool",
+   "origin": "Impactpool",
+   "score": 60,
+   "track": "construction",
+   "reasons": [
+    "engineer",
+    "shelter"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Shelter Project Engineer CTG - Committed To Good Kunduz | Badghis Mid - Mid level",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
+   "title": "Emergency Officer, NO-1, TA (364 days), #137041, Gaza, State of Palestine, MENA",
+   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597177",
+   "source": "UNICEF",
+   "origin": "UNICEF",
+   "score": 55,
+   "track": "project_management",
+   "reasons": [
+    "infrastructure",
+    "works",
+    "implementation",
+    "monitoring",
+    "planning",
+    "+specialist"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
+   "title": "Programme Budget Officer, P-2, Fixed Term Position,National Team, Sudan, #00139034",
+   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597165",
+   "source": "UNICEF",
+   "origin": "UNICEF",
+   "score": 55,
+   "track": "project_management",
+   "reasons": [
+    "building",
+    "works",
+    "planning",
+    "programme manager",
+    "project management",
+    "+senior"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
+   "title": "Education Officer (Field Support & Quality Assurance) (NO-2), Fixed Term, #138008, Antananarivo, Madagascar-ESAR",
+   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597175",
+   "source": "UNICEF",
+   "origin": "UNICEF",
+   "score": 55,
+   "track": "project_management",
+   "reasons": [
+    "building",
+    "works",
+    "implementation",
+    "monitoring",
+    "planning",
+    "+specialist"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
+   "title": "Re-advertisement: Education Officer, NO-2, Temporary Position, 364 days, Honiara, Solomon Islands, #00138309",
+   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/595420",
+   "source": "UNICEF",
+   "origin": "UNICEF",
+   "score": 55,
+   "track": "project_management",
+   "reasons": [
+    "building",
+    "works",
+    "implementation",
+    "monitoring",
+    "planning",
+    "+specialist"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "This is a re-advertisement, candidates who have already applied do not need to re-apply. UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, pas",
+   "first_seen": "2026-11-24",
    "old_data": false
   },
   {
@@ -3336,6 +3680,71 @@
    "old_data": false
   },
   {
+   "title": "Project Coordination and Management Consultant , Economic Social Policy Global Programme Division, 11 moths, Bangkok, Thailand, Office Based (Internationals only)",
+   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597174",
+   "source": "UNICEF",
+   "origin": "UNICEF",
+   "score": 50,
+   "track": "project_management",
+   "reasons": [
+    "works",
+    "implementation",
+    "monitoring",
+    "planning",
+    "project management"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Contract Duration: 11 months Working arrangement: Office-based ************************************************************************************ UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early chil",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
+   "title": "Knowledge Management Specialist, P-3, TA (7 months), #00139603. Regional Services Div, Amman - MENAR",
+   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597167",
+   "source": "UNICEF",
+   "origin": "UNICEF",
+   "score": 50,
+   "track": "project_management",
+   "reasons": [
+    "works",
+    "monitoring",
+    "planning",
+    "+p-3",
+    "+senior",
+    "+specialist"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
+   "title": "Re-advertised Documentation of Performance-based Grants for the Philippine Multisectoral Nutrition Project Consultant, Manila, Philippines, 3.5 months, Remote with travel, Nationals",
+   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/596651",
+   "source": "UNICEF",
+   "origin": "UNICEF",
+   "score": 50,
+   "track": "project_management",
+   "reasons": [
+    "works",
+    "implementation",
+    "monitoring",
+    "planning",
+    "+remote",
+    "+senior"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
    "title": "Education Officer (NO-2), TA, (364 days), #00139143, Caracas -Venezuela, LACR",
    "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597139",
    "source": "UNICEF",
@@ -3464,27 +3873,6 @@
    "old_data": false
   },
   {
-   "title": "Health & Nutrition Officer (NO-2), FT, #00139555, Harare, Zimbabwe",
-   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597036",
-   "source": "UNICEF",
-   "origin": "UNICEF",
-   "score": 50,
-   "track": "project_management",
-   "reasons": [
-    "works",
-    "implementation",
-    "monitoring",
-    "planning",
-    "supply"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
-   "first_seen": "2026-11-17",
-   "old_data": false
-  },
-  {
    "title": "Finance/Budget Manager (P-4), FT, #00131282, Kyiv, Ukraine",
    "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597041",
    "source": "UNICEF",
@@ -3589,6 +3977,48 @@
    "old_data": false
   },
   {
+   "title": "Re-advertisement: Social Policy Specialist (NO-3), FT, #131120, Kinshasa, Dem. Rep. of Congo - WCAR",
+   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/594627",
+   "source": "UNICEF",
+   "origin": "UNICEF",
+   "score": 45,
+   "track": "project_management",
+   "reasons": [
+    "works",
+    "implementation",
+    "monitoring",
+    "planning",
+    "+specialist"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
+   "title": "National Information and Data Management Consultant (remote with travel for 8 months)",
+   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597178",
+   "source": "UNICEF",
+   "origin": "UNICEF",
+   "score": 45,
+   "track": "project_management",
+   "reasons": [
+    "works",
+    "implementation",
+    "monitoring",
+    "planning",
+    "+remote"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
    "title": "Health Specialist (Information Systems) (P-4), Fixed Term, #00133458, Global Programme Division, Health, Nairobi - Kenya CoE",
    "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597138",
    "source": "UNICEF",
@@ -3648,27 +4078,6 @@
    "status": "CHECK",
    "why": "deadline not found - open the vacancy",
    "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
-   "first_seen": "2026-11-19",
-   "old_data": false
-  },
-  {
-   "title": "Stretch Assignment - Deputy Representative Operation, Accra Ghana",
-   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597078",
-   "source": "UNICEF",
-   "origin": "UNICEF",
-   "score": 45,
-   "track": "procurement_contracts",
-   "reasons": [
-    "works",
-    "project management",
-    "procurement",
-    "supply",
-    "+senior"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Stretch Assignment: Deputy Representative Operation, (Onsite) Title: Deputy Representative, Operations. Level: P4 – we encourage staff from all levels with the relevant experience to apply Reports to: Representative Duration: 3 months Section: Operations Section, Division/Office Location: Accra, Gha",
    "first_seen": "2026-11-19",
    "old_data": false
   },
@@ -3839,48 +4248,6 @@
    "old_data": false
   },
   {
-   "title": "Climate and Energy Consultant, Climate Resilience COE Section, 1 year, Bangkok, Thailand, (Internationals only) Home based with Travel",
-   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/596892",
-   "source": "UNICEF",
-   "origin": "UNICEF",
-   "score": 45,
-   "track": "construction",
-   "reasons": [
-    "building",
-    "works",
-    "solar",
-    "facilities",
-    "+home based"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Contract Duration: 1 year Working arrangement: Home Based ************************************************************************************ UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood",
-   "first_seen": "2026-11-10",
-   "old_data": false
-  },
-  {
-   "title": "National and international Process Redesign Consultant,UNICEF -Uganda/Kampala Operations section,Remote work, 11.5 Months 596885",
-   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/596885",
-   "source": "UNICEF",
-   "origin": "UNICEF",
-   "score": 45,
-   "track": "construction",
-   "reasons": [
-    "building",
-    "works",
-    "implementation",
-    "project management",
-    "+remote"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
-   "first_seen": "2026-11-09",
-   "old_data": false
-  },
-  {
    "title": "Health Specialist - Health Economics and Financing, P-4, Fixed Term Position, # 00133446, Global Programme Division, Health Section, Nairobi, Kenya CoE",
    "link": "https://careers.pageuppeople.com/671/cw/en-us/job/596844",
    "source": "UNICEF",
@@ -3918,6 +4285,26 @@
    "status": "CHECK",
    "why": "deadline not found - open the vacancy",
    "snippet": "************************************************************************************ Contract Duration: 12 Months Working arrangement: Office Based ************************************************************************************ UNICEF works in over 190 countries and territories to save children",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
+   "title": "Chief Child Protection (P-4), FT, #00022592, Manila - Philippines",
+   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597169",
+   "source": "UNICEF",
+   "origin": "UNICEF",
+   "score": 40,
+   "track": "construction",
+   "reasons": [
+    "building",
+    "works",
+    "planning",
+    "+p-4"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
    "first_seen": "2026-11-24",
    "old_data": false
   },
@@ -4242,26 +4629,6 @@
    "old_data": false
   },
   {
-   "title": "Legal Specialist in Child Online Protection (regulatory framework and justice-sector capacity, technical support to MINICT) – Individual Consultant (National - only) Kigali, Rwanda, 11 months #597024",
-   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597024",
-   "source": "UNICEF",
-   "origin": "UNICEF",
-   "score": 35,
-   "track": "construction",
-   "reasons": [
-    "building",
-    "works",
-    "implementation",
-    "+specialist"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Working arrangement: Kigali, Rwanda — based at the Ministry of ICT and Innovation (MINICT), with approved missions within Rwanda UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adole",
-   "first_seen": "2026-11-17",
-   "old_data": false
-  },
-  {
    "title": "Climate Education Consultant, Mogadishu, Somalia, Remote + Travel, 11 Months, International Candidates Only, #597034",
    "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597034",
    "source": "UNICEF",
@@ -4429,6 +4796,24 @@
    "why": "deadline not found - open the vacancy",
    "snippet": "Senior Manager, Procurement",
    "first_seen": "2026-11-20",
+   "old_data": false
+  },
+  {
+   "title": "Senior Project Manager (Transactional)",
+   "link": "https://careers.unops.org/careersmarketplace/JobDetail/5287",
+   "source": "UNOPS",
+   "origin": "UNOPS",
+   "score": 35,
+   "track": "project_management",
+   "reasons": [
+    "project manager",
+    "+senior"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Senior Project Manager (Transactional)",
+   "first_seen": "2026-11-24",
    "old_data": false
   },
   {
@@ -4612,7 +4997,7 @@
    "old_data": false
   },
   {
-   "title": "New job: Construction Manager - Mauritania The HALO Trust Mauritania Senior - Senior level",
+   "title": "Construction Manager - Mauritania The HALO Trust Mauritania Senior - Senior level",
    "link": "https://www.impactpool.org/jobs/1249507",
    "source": "Impactpool",
    "origin": "Impactpool",
@@ -4625,7 +5010,7 @@
    "deadline": "",
    "status": "CHECK",
    "why": "deadline not found - open the vacancy",
-   "snippet": "New job: Construction Manager - Mauritania The HALO Trust Mauritania Senior - Senior level",
+   "snippet": "Construction Manager - Mauritania The HALO Trust Mauritania Senior - Senior level",
    "first_seen": "2026-11-23",
    "old_data": false
   },
@@ -4681,6 +5066,24 @@
    "why": "deadline not found - open the vacancy",
    "snippet": "Senior Environmental and Social Officer UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Amman LDC Band G",
    "first_seen": "2026-11-23",
+   "old_data": false
+  },
+  {
+   "title": "New job: Water Infrastructure Specialist FAO - Food and Agriculture Organization of the United Nations Kenya Consultant - Contractors Agreement - Consultancy",
+   "link": "https://www.impactpool.org/jobs/1249713",
+   "source": "Impactpool",
+   "origin": "Impactpool",
+   "score": 35,
+   "track": "construction",
+   "reasons": [
+    "infrastructure",
+    "+specialist"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "New job: Water Infrastructure Specialist FAO - Food and Agriculture Organization of the United Nations Kenya Consultant - Contractors Agreement - Consultancy",
+   "first_seen": "2026-11-24",
    "old_data": false
   },
   {
@@ -4776,25 +5179,6 @@
    "why": "deadline not found - open the vacancy",
    "snippet": "Consultant for ASEAN Immunization Financing: Landscape Analysis, Bangkok, Thailand, 7 months (remote - ideally close to Bangkok time zone) UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood thr",
    "first_seen": "2026-11-23",
-   "old_data": false
-  },
-  {
-   "title": "ICT Individual Consultant in Child Online Protection (technical support to MINICT), Kigali, Rwanda, Office-based + travel, 11.5 months, #597059",
-   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597059",
-   "source": "UNICEF",
-   "origin": "UNICEF",
-   "score": 30,
-   "track": "construction",
-   "reasons": [
-    "building",
-    "works",
-    "monitoring"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
-   "first_seen": "2026-11-18",
    "old_data": false
   },
   {
@@ -5082,6 +5466,74 @@
    "old_data": false
   },
   {
+   "title": "Civil Engineer",
+   "link": "https://careers.unops.org/careersmarketplace/JobDetail/5277",
+   "source": "UNOPS",
+   "origin": "UNOPS",
+   "score": 30,
+   "track": "construction",
+   "reasons": [
+    "civil engineer"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Civil Engineer",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
+   "title": "Architectural Engineer",
+   "link": "https://careers.unops.org/careersmarketplace/JobDetail/5279",
+   "source": "UNOPS",
+   "origin": "UNOPS",
+   "score": 30,
+   "track": "construction",
+   "reasons": [
+    "engineer"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Architectural Engineer",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
+   "title": "Biomedical Engineer",
+   "link": "https://careers.unops.org/careersmarketplace/JobDetail/5285",
+   "source": "UNOPS",
+   "origin": "UNOPS",
+   "score": 30,
+   "track": "construction",
+   "reasons": [
+    "engineer"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Biomedical Engineer",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
+   "title": "Civil Engineer",
+   "link": "https://careers.unops.org/careersmarketplace/JobDetail/5314",
+   "source": "UNOPS",
+   "origin": "UNOPS",
+   "score": 30,
+   "track": "construction",
+   "reasons": [
+    "civil engineer"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Civil Engineer",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
    "title": "Project Manager (EU4Commerce)",
    "link": "https://careers.unops.org/careersmarketplace/JobDetail/5031",
    "source": "UNOPS",
@@ -5337,23 +5789,6 @@
    "old_data": false
   },
   {
-   "title": "Consultant - Implementation Support for Addressing Antisemitism through Education (Australia)",
-   "link": "https://careers.unesco.org/job/Paris-Consultant-Implementation-Support-for-Addressing-Antisemitism-through-Education-%28Australia%29/1377728257/",
-   "source": "UNESCO",
-   "origin": "UNESCO",
-   "score": 30,
-   "track": "project_management",
-   "reasons": [
-    "implementation"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Consultant - Implementation Support for Addressing Antisemitism through Education (Australia)",
-   "first_seen": "2026-11-17",
-   "old_data": false
-  },
-  {
    "title": "Analyst - Sustainable Infrastructure Middle East & Africa",
    "link": "https://jobs.ebrd.com/job/London-Analyst-Sustainable-Infrastructure-Middle-East-&-Africa/1459601433/",
    "source": "EBRD",
@@ -5371,6 +5806,40 @@
    "old_data": false
   },
   {
+   "title": "Associate, Quality Engineer - Corporate Functions",
+   "link": "https://jobs.ebrd.com/job/Sofia-Associate%2C-Quality-Engineer-Corporate-Functions/1404423333/",
+   "source": "EBRD",
+   "origin": "EBRD",
+   "score": 30,
+   "track": "construction",
+   "reasons": [
+    "engineer"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Associate, Quality Engineer - Corporate Functions",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
+   "title": "QA Automation Engineer",
+   "link": "https://jobs.ebrd.com/job/Sofia-QA-Automation-Engineer/1262141301/",
+   "source": "EBRD",
+   "origin": "EBRD",
+   "score": 30,
+   "track": "construction",
+   "reasons": [
+    "engineer"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "QA Automation Engineer",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
    "title": "Principal, Technical Architect",
    "link": "https://jobs.ebrd.com/job/Sofia-Principal%2C-Technical-Architect/1457538933/",
    "source": "EBRD",
@@ -5385,40 +5854,6 @@
    "why": "deadline not found - open the vacancy",
    "snippet": "Principal, Technical Architect",
    "first_seen": "2026-11-16",
-   "old_data": false
-  },
-  {
-   "title": "Associate, M365 Engineer",
-   "link": "https://jobs.ebrd.com/job/Sofia-Associate%2C-M365-Engineer/1456806533/",
-   "source": "EBRD",
-   "origin": "EBRD",
-   "score": 30,
-   "track": "construction",
-   "reasons": [
-    "engineer"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Associate, M365 Engineer",
-   "first_seen": "2026-11-12",
-   "old_data": false
-  },
-  {
-   "title": "Principal, Sustainable Business Infrastructure",
-   "link": "https://jobs.ebrd.com/job/London-Principal%2C-Sustainable-Business-Infrastructure/1456833933/",
-   "source": "EBRD",
-   "origin": "EBRD",
-   "score": 30,
-   "track": "construction",
-   "reasons": [
-    "infrastructure"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Principal, Sustainable Business Infrastructure",
-   "first_seen": "2026-11-12",
    "old_data": false
   },
   {
@@ -5558,6 +5993,23 @@
    "old_data": false
   },
   {
+   "title": "New job: Civil Engineer UNOPS - United Nations Office for Project Services San José ICS 09",
+   "link": "https://www.impactpool.org/jobs/1249726",
+   "source": "Impactpool",
+   "origin": "Impactpool",
+   "score": 30,
+   "track": "construction",
+   "reasons": [
+    "civil engineer"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "New job: Civil Engineer UNOPS - United Nations Office for Project Services San José ICS 09",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
    "title": "Closing today: Design Engineer UNOPS - United Nations Office for Project Services Yangon ICS 09",
    "link": "https://www.impactpool.org/jobs/1246995",
    "source": "Impactpool",
@@ -5592,8 +6044,8 @@
    "old_data": false
   },
   {
-   "title": "Closing today: Civil Engineer QA/QC CTG - Committed To Good Port-au-Prince Mid - Mid level",
-   "link": "https://www.impactpool.org/jobs/1248482",
+   "title": "New job: Civil Engineer UNOPS - United Nations Office for Project Services Damascus | Aleppo | Lattakia | Homs ICS 08",
+   "link": "https://www.impactpool.org/jobs/1249727",
    "source": "Impactpool",
    "origin": "Impactpool",
    "score": 30,
@@ -5604,8 +6056,8 @@
    "deadline": "",
    "status": "CHECK",
    "why": "deadline not found - open the vacancy",
-   "snippet": "Closing today: Civil Engineer QA/QC CTG - Committed To Good Port-au-Prince Mid - Mid level",
-   "first_seen": "2026-11-17",
+   "snippet": "New job: Civil Engineer UNOPS - United Nations Office for Project Services Damascus | Aleppo | Lattakia | Homs ICS 08",
+   "first_seen": "2026-11-24",
    "old_data": false
   },
   {
@@ -5657,6 +6109,23 @@
    "why": "deadline not found - open the vacancy",
    "snippet": "Civil Engineer UNOPS - United Nations Office for Project Services Manakara ICS 08",
    "first_seen": "2026-11-20",
+   "old_data": false
+  },
+  {
+   "title": "Closing today: Civil Engineer QA/QC CTG - Committed To Good Port-au-Prince Mid - Mid level",
+   "link": "https://www.impactpool.org/jobs/1248482",
+   "source": "Impactpool",
+   "origin": "Impactpool",
+   "score": 30,
+   "track": "construction",
+   "reasons": [
+    "civil engineer"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Closing today: Civil Engineer QA/QC CTG - Committed To Good Port-au-Prince Mid - Mid level",
+   "first_seen": "2026-11-17",
    "old_data": false
   },
   {
@@ -5728,110 +6197,42 @@
    "old_data": false
   },
   {
-   "title": "Shelter Associate UNHCR - United Nations High Commissioner for Refugees Sittwe UNOPS LICA6",
-   "link": "https://www.impactpool.org/jobs/1248810",
-   "source": "Impactpool",
-   "origin": "Impactpool",
+   "title": "HIV Supply Chain Advisor / Chargé de la Chaîne d'Approvisionnement VIH",
+   "link": "https://www.devex.com/jobs/hiv-supply-chain-advisor-charge-de-la-chaine-d-approvisionnement-vih-1475524",
+   "source": "Devex",
+   "origin": "Devex",
+   "score": 30,
+   "track": "procurement_contracts",
+   "reasons": [
+    "supply"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Togo | West Africa Mid-level",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
+   "title": "Advanced Support (Escalation) Engineer (m/ž)",
+   "link": "https://posao.klix.ba/oglasi/advanced-support-escalation-engineer-mz-logika/11168",
+   "source": "Klix Posao",
+   "origin": "Klix Posao",
    "score": 30,
    "track": "construction",
    "reasons": [
-    "shelter"
+    "engineer"
    ],
    "deadline": "",
    "status": "CHECK",
    "why": "deadline not found - open the vacancy",
-   "snippet": "Shelter Associate UNHCR - United Nations High Commissioner for Refugees Sittwe UNOPS LICA6",
-   "first_seen": "2026-11-24",
-   "old_data": false
-  },
-  {
-   "title": "LBN - Portfolio and Programme Manager (HEO)",
-   "link": "https://www.devex.com/jobs/lbn-portfolio-and-programme-manager-heo-1475287",
-   "source": "Devex",
-   "origin": "Devex",
-   "score": 30,
-   "track": "project_management",
-   "reasons": [
-    "programme manager"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Lebanon | North Africa and Middle East Mid-level",
-   "first_seen": "2026-11-24",
-   "old_data": false
-  },
-  {
-   "title": "Technical Works Group Foreman, Corporate Services, Kingston",
-   "link": "https://www.devex.com/jobs/technical-works-group-foreman-corporate-services-kingston-1475283",
-   "source": "Devex",
-   "origin": "Devex",
-   "score": 30,
-   "track": "construction",
-   "reasons": [
-    "works"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Jamaica | Latin America and Caribbean Mid-level",
-   "first_seen": "2026-11-24",
-   "old_data": false
-  },
-  {
-   "title": "BK - Agriculture and Trade Programme Manager, HEO",
-   "link": "https://www.devex.com/jobs/bk-agriculture-and-trade-programme-manager-heo-1475282",
-   "source": "Devex",
-   "origin": "Devex",
-   "score": 30,
-   "track": "project_management",
-   "reasons": [
-    "programme manager"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Thailand | East Asia and Pacific Mid-level",
-   "first_seen": "2026-11-24",
-   "old_data": false
-  },
-  {
-   "title": "Pricing Manager - Commercial Architect",
-   "link": "https://www.mojposao.ba/posao/afbab08f-dcec-11f1-a8c0-42010a9c001a/pricing-manager---commercial-architect?source=search_results&jmSearchId=7c4a99d1-fa7d-4b2c-9f99-d3ee7f866e0c&searchId=7c4a99d1-fa7d-4b2c-9f99-d3ee7f866e0c&searchSource=jobmatching",
-   "source": "MojPosao",
-   "origin": "MojPosao",
-   "score": 30,
-   "track": "architecture_heritage",
-   "reasons": [
-    "architect"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Pricing Manager - Commercial Architect",
-   "first_seen": "2026-11-24",
-   "old_data": false
-  },
-  {
-   "title": "Solutions Architect - Consulting & Solutioning Manager",
-   "link": "https://www.mojposao.ba/posao/ec53e981-dcec-11f1-a8c0-42010a9c001a/solutions-architect---consulting--solutioning-manager?source=search_results&jmSearchId=7c4a99d1-fa7d-4b2c-9f99-d3ee7f866e0c&searchId=7c4a99d1-fa7d-4b2c-9f99-d3ee7f866e0c&searchSource=jobmatching",
-   "source": "MojPosao",
-   "origin": "MojPosao",
-   "score": 30,
-   "track": "architecture_heritage",
-   "reasons": [
-    "architect"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "why": "deadline not found - open the vacancy",
-   "snippet": "Solutions Architect - Consulting & Solutioning Manager",
+   "snippet": "Advanced Support (Escalation) Engineer (m/ž)",
    "first_seen": "2026-11-24",
    "old_data": false
   },
   {
    "title": "Proizvodni inženjer",
-   "link": "https://www.mojposao.ba/posao/8ff54d3b-e4e7-11f1-8233-42010a9c001b/proizvodni-inzenjer?source=search_results&jmSearchId=7c4a99d1-fa7d-4b2c-9f99-d3ee7f866e0c&searchId=7c4a99d1-fa7d-4b2c-9f99-d3ee7f866e0c&searchSource=jobmatching",
+   "link": "https://www.mojposao.ba/posao/8ff54d3b-e4e7-11f1-8233-42010a9c001b/proizvodni-inzenjer?source=search_results&jmSearchId=b67b468f-d8e6-446f-b5b4-7cfcf34a9e5a&searchId=b67b468f-d8e6-446f-b5b4-7cfcf34a9e5a&searchSource=jobmatching",
    "source": "MojPosao",
    "origin": "MojPosao",
    "score": 30,
@@ -5848,7 +6249,7 @@
   },
   {
    "title": "Inžinjer elektro održavanja (m/ž)",
-   "link": "https://www.mojposao.ba/posao/212432ca-e4f2-11f1-8233-42010a9c001b/inzinjer-elektro-odrzavanja-mz?source=search_results&jmSearchId=7c4a99d1-fa7d-4b2c-9f99-d3ee7f866e0c&searchId=7c4a99d1-fa7d-4b2c-9f99-d3ee7f866e0c&searchSource=jobmatching",
+   "link": "https://www.mojposao.ba/posao/212432ca-e4f2-11f1-8233-42010a9c001b/inzinjer-elektro-odrzavanja-mz?source=search_results&jmSearchId=b67b468f-d8e6-446f-b5b4-7cfcf34a9e5a&searchId=b67b468f-d8e6-446f-b5b4-7cfcf34a9e5a&searchSource=jobmatching",
    "source": "MojPosao",
    "origin": "MojPosao",
    "score": 30,
@@ -5864,8 +6265,25 @@
    "old_data": false
   },
   {
+   "title": "Diplomirani arhitekta - dizajner enterijera",
+   "link": "https://www.mojposao.ba/posao/b16055d8-e80d-11f1-8233-42010a9c001b/diplomirani-arhitekta---dizajner-enterijera?source=search_results&jmSearchId=b67b468f-d8e6-446f-b5b4-7cfcf34a9e5a&searchId=b67b468f-d8e6-446f-b5b4-7cfcf34a9e5a&searchSource=jobmatching",
+   "source": "MojPosao",
+   "origin": "MojPosao",
+   "score": 30,
+   "track": "architecture_heritage",
+   "reasons": [
+    "arhitekta"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "why": "deadline not found - open the vacancy",
+   "snippet": "Diplomirani arhitekta - dizajner enterijera",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
    "title": "LFM Country Programme Coordinator",
-   "link": "https://www.mojposao.ba/posao/cdac5db9-e33c-11f1-8233-42010a9c001b/lfm-country-programme-coordinator?source=search_results&jmSearchId=7c4a99d1-fa7d-4b2c-9f99-d3ee7f866e0c&searchId=7c4a99d1-fa7d-4b2c-9f99-d3ee7f866e0c&searchSource=jobmatching",
+   "link": "https://www.mojposao.ba/posao/cdac5db9-e33c-11f1-8233-42010a9c001b/lfm-country-programme-coordinator?source=search_results&jmSearchId=b67b468f-d8e6-446f-b5b4-7cfcf34a9e5a&searchId=b67b468f-d8e6-446f-b5b4-7cfcf34a9e5a&searchSource=jobmatching",
    "source": "MojPosao",
    "origin": "MojPosao",
    "score": 30,
@@ -6071,6 +6489,30 @@
    "old_data": false
   },
   {
+   "title": "Administrative Assistant (Fleet Supervisor), G-5, FT, #137775, East Jerusalem, State of Palestine, MENA",
+   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597163",
+   "source": "UNICEF",
+   "origin": "UNICEF",
+   "score": 80,
+   "track": "project_management",
+   "reasons": [
+    "works",
+    "monitoring",
+    "planning",
+    "project management",
+    "scheduling",
+    "procurement",
+    "supply",
+    "maintenance"
+   ],
+   "deadline": "",
+   "status": "NOT ELIGIBLE",
+   "why": "local post outside BiH",
+   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
    "title": "Emergency Nutrition Officer, Islamabad (LICA-9, UNOPS Individual Contractor Agreement)",
    "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597094",
    "source": "UNICEF",
@@ -6181,27 +6623,6 @@
    "why": "local post outside BiH",
    "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
    "first_seen": "2026-11-09",
-   "old_data": false
-  },
-  {
-   "title": "Re-Advertisement: Procurement (Supply & Logistics) Associate (G-6), Fixed Term Position, #126881, Minsk- Belarus, ECAR",
-   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/595430",
-   "source": "UNICEF",
-   "origin": "UNICEF",
-   "score": 80,
-   "track": "procurement_contracts",
-   "reasons": [
-    "works",
-    "planning",
-    "procurement",
-    "supply",
-    "contract management"
-   ],
-   "deadline": "",
-   "status": "NOT ELIGIBLE",
-   "why": "local post outside BiH",
-   "snippet": "This is a re-advertisement of the position. Those who applied to the previous advertisement do not need to re-apply; they are still being considered. UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early ch",
-   "first_seen": "2026-11-17",
    "old_data": false
   },
   {
@@ -6487,29 +6908,6 @@
    "old_data": false
   },
   {
-   "title": "Programme Specialist (Gender), NOC, TA, #139101, Islamabad, Pakistan, APR",
-   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597015",
-   "source": "UNICEF",
-   "origin": "UNICEF",
-   "score": 60,
-   "track": "project_management",
-   "reasons": [
-    "structural",
-    "works",
-    "implementation",
-    "monitoring",
-    "planning",
-    "+senior",
-    "+specialist"
-   ],
-   "deadline": "",
-   "status": "NOT ELIGIBLE",
-   "why": "local post outside BiH",
-   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
-   "first_seen": "2026-11-17",
-   "old_data": false
-  },
-  {
    "title": "State Health Consultant – RMNCAH (Indian nationals only, remote with travel for 12.5 months)",
    "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597011",
    "source": "UNICEF",
@@ -6619,72 +7017,6 @@
    "old_data": false
   },
   {
-   "title": "WASH Officer, NO-2, Fixed Term Position, Harare, Zimbabwe, #00139563, Open to Zimbabwe Nationals Only",
-   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597017",
-   "source": "UNICEF",
-   "origin": "UNICEF",
-   "score": 55,
-   "track": "project_management",
-   "reasons": [
-    "building",
-    "works",
-    "implementation",
-    "monitoring",
-    "planning",
-    "+specialist"
-   ],
-   "deadline": "",
-   "status": "NOT ELIGIBLE",
-   "why": "to Zimbabwe nationals only",
-   "snippet": "UNICEF works in over 190 countries and territori es to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of e",
-   "first_seen": "2026-11-17",
-   "old_data": false
-  },
-  {
-   "title": "Education Officer, NO-2, Fixed Term Position, Harare, Zimbabwe, #00139565, Open to Zimbabwe Nationals Only",
-   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597025",
-   "source": "UNICEF",
-   "origin": "UNICEF",
-   "score": 55,
-   "track": "project_management",
-   "reasons": [
-    "building",
-    "works",
-    "implementation",
-    "monitoring",
-    "planning",
-    "+specialist"
-   ],
-   "deadline": "",
-   "status": "NOT ELIGIBLE",
-   "why": "to Zimbabwe nationals only",
-   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
-   "first_seen": "2026-11-17",
-   "old_data": false
-  },
-  {
-   "title": "Programme Specialist, NO-3, Fixed Term Position, Harare, Zimbabwe, #00139561, Open to Zimbabwe Nationals Only",
-   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597040",
-   "source": "UNICEF",
-   "origin": "UNICEF",
-   "score": 55,
-   "track": "project_management",
-   "reasons": [
-    "building",
-    "works",
-    "implementation",
-    "monitoring",
-    "planning",
-    "+specialist"
-   ],
-   "deadline": "",
-   "status": "NOT ELIGIBLE",
-   "why": "to Zimbabwe nationals only",
-   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
-   "first_seen": "2026-11-17",
-   "old_data": false
-  },
-  {
    "title": "Health Specialist (Health Systems Strengthening) (NO-3), #132838, FT, Kabul, Afghanistan, (open to Afghan Nationals only)",
    "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597009",
    "source": "UNICEF",
@@ -6745,6 +7077,27 @@
    "why": "for Pakistani nationals only",
    "snippet": "Islamabad, Pakistan, The Islamic Rep. DEADLINE FOR APPLICATIONS 1 December 2026-23:59-GMT+05:00 Pakistan Standard Time (Karachi) WFP celebrates and embraces diversity. It is committed to the principle of equal employment opportunity for all its employees and encourages qualified candidates to apply ",
    "first_seen": "2026-11-16",
+   "old_data": false
+  },
+  {
+   "title": "Logistics Associate (G-6), FT, #120637, Kharkiv, Ukraine-ECAR",
+   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597162",
+   "source": "UNICEF",
+   "origin": "UNICEF",
+   "score": 50,
+   "track": "project_management",
+   "reasons": [
+    "works",
+    "implementation",
+    "monitoring",
+    "planning",
+    "supply"
+   ],
+   "deadline": "",
+   "status": "NOT ELIGIBLE",
+   "why": "local post outside BiH",
+   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
+   "first_seen": "2026-11-24",
    "old_data": false
   },
   {
@@ -7042,48 +7395,6 @@
    "old_data": false
   },
   {
-   "title": "Social & Behavior Change Officer, NO-2, Fixed Term Position, Harare, Zimbabwe, #00139564, Open to Zimbabwe Nationals Only",
-   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597021",
-   "source": "UNICEF",
-   "origin": "UNICEF",
-   "score": 45,
-   "track": "project_management",
-   "reasons": [
-    "works",
-    "implementation",
-    "monitoring",
-    "planning",
-    "+specialist"
-   ],
-   "deadline": "",
-   "status": "NOT ELIGIBLE",
-   "why": "to Zimbabwe nationals only",
-   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
-   "first_seen": "2026-11-17",
-   "old_data": false
-  },
-  {
-   "title": "Re-advertisement: Programme Associate, G-6, Fixed Term Position, #00094994, Kuala Lumpur - Malaysia, APR",
-   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/596231",
-   "source": "UNICEF",
-   "origin": "UNICEF",
-   "score": 45,
-   "track": "project_management",
-   "reasons": [
-    "works",
-    "implementation",
-    "monitoring",
-    "planning",
-    "+senior"
-   ],
-   "deadline": "",
-   "status": "NOT ELIGIBLE",
-   "why": "local post outside BiH",
-   "snippet": "This is a re-advertisement, candidates who have already applied do not need to re-apply. UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, pas",
-   "first_seen": "2026-11-17",
-   "old_data": false
-  },
-  {
    "title": "Nutrition Officer (NO-2), #00139045, TA (364 days), Cotabato -Philippines, APR",
    "link": "https://careers.pageuppeople.com/671/cw/en-us/job/596940",
    "source": "UNICEF",
@@ -7144,6 +7455,24 @@
    "old_data": false
   },
   {
+   "title": "ASSISTANT PROCUREMENT OFFICER",
+   "link": "https://careers.un.org/jobSearchDescription/288945?language=en",
+   "source": "UN Careers",
+   "origin": "UN Careers",
+   "score": 40,
+   "track": "procurement_contracts",
+   "reasons": [
+    "procurement",
+    "supply"
+   ],
+   "deadline": "2026-12-01",
+   "status": "NOT ELIGIBLE",
+   "why": "local post outside BiH",
+   "snippet": "Level : NO-A Job ID : 288945 Job Network : Logistics, Transportation and Supply Chain Job Family : Procurement Department/Office : United Nations Interim Security Force for Abyei- created under GA resolution 1990 (2011) Duty Station : ABYEI Staffing Exercise : undefined Posted Date : 11/24/2026 00:0",
+   "first_seen": "2026-11-24",
+   "old_data": false
+  },
+  {
    "title": "Reports Assistant--Fixed Term Contract -planning-For internal candidates only -FO West bank-Grade",
    "link": "https://careers.un.org/jobSearchDescription/288665?language=en",
    "source": "UN Careers",
@@ -7159,6 +7488,26 @@
    "why": "internal candidates only",
    "snippet": "Level : Job ID : 288665 Job Network : Economic, Social and Development Job Family : Statistics Department/Office : United Nations Relief and Works Agency (UNRWA) Duty Station : FO West Bank Staffing Exercise : undefined Posted Date : 11/22/2026 00:00:00 AM (New York time) Deadline : 12/05/2026 23:59",
    "first_seen": "2026-11-22",
+   "old_data": false
+  },
+  {
+   "title": "Programme Officer, NO-2, TA (364 days), #00137049, East Jerusalem, Palestine - MENAR",
+   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/597171",
+   "source": "UNICEF",
+   "origin": "UNICEF",
+   "score": 40,
+   "track": "project_management",
+   "reasons": [
+    "works",
+    "implementation",
+    "monitoring",
+    "programme manager"
+   ],
+   "deadline": "",
+   "status": "NOT ELIGIBLE",
+   "why": "local post outside BiH",
+   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
+   "first_seen": "2026-11-24",
    "old_data": false
   },
   {
@@ -7327,31 +7676,14 @@
    "snippet": "This is a re-advertisement of the position. Those who applied to the previous advertisement do not need to re-apply; they are still being considered. UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early ch",
    "first_seen": "2026-11-09",
    "old_data": false
-  },
-  {
-   "title": "National Consultant on Coordination and Monitoring",
-   "link": "https://careers.unesco.org/job/Tashkent-National-Consultant-on-Coordination-and-Monitoring/1377494257/",
-   "source": "UNESCO",
-   "origin": "UNESCO",
-   "score": 30,
-   "track": "project_management",
-   "reasons": [
-    "monitoring"
-   ],
-   "deadline": "",
-   "status": "NOT ELIGIBLE",
-   "why": "local post outside BiH",
-   "snippet": "National Consultant on Coordination and Monitoring",
-   "first_seen": "2026-11-13",
-   "old_data": false
   }
  ],
  "sources": {
   "UNDP": {
    "status": "OK",
-   "items": 100,
-   "matches": 13,
-   "last_ok": "2026-11-24 09:58 UTC",
+   "items": 117,
+   "matches": 17,
+   "last_ok": "2026-11-24 22:30 UTC",
    "fails_in_a_row": 0,
    "detail": "estm.fa.em2.oraclecloud.com",
    "fix": "",
@@ -7359,9 +7691,9 @@
   },
   "UNFPA": {
    "status": "OK",
-   "items": 31,
-   "matches": 2,
-   "last_ok": "2026-11-24 09:58 UTC",
+   "items": 32,
+   "matches": 3,
+   "last_ok": "2026-11-24 22:30 UTC",
    "fails_in_a_row": 0,
    "detail": "estm.fa.em2.oraclecloud.com",
    "fix": "",
@@ -7369,9 +7701,9 @@
   },
   "UN Women": {
    "status": "OK",
-   "items": 41,
-   "matches": 7,
-   "last_ok": "2026-11-24 09:58 UTC",
+   "items": 42,
+   "matches": 8,
+   "last_ok": "2026-11-24 22:30 UTC",
    "fails_in_a_row": 0,
    "detail": "estm.fa.em2.oraclecloud.com",
    "fix": "",
@@ -7380,8 +7712,8 @@
   "IOM": {
    "status": "OK",
    "items": 167,
-   "matches": 18,
-   "last_ok": "2026-11-24 09:58 UTC",
+   "matches": 20,
+   "last_ok": "2026-11-24 22:30 UTC",
    "fails_in_a_row": 0,
    "detail": "fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com",
    "fix": "",
@@ -7389,9 +7721,9 @@
   },
   "Save the Children": {
    "status": "OK",
-   "items": 89,
+   "items": 86,
    "matches": 24,
-   "last_ok": "2026-11-24 09:58 UTC",
+   "last_ok": "2026-11-24 22:30 UTC",
    "fails_in_a_row": 0,
    "detail": "hcri.fa.em2.oraclecloud.com",
    "fix": "",
@@ -7399,9 +7731,9 @@
   },
   "WFP": {
    "status": "OK",
-   "items": 95,
+   "items": 93,
    "matches": 14,
-   "last_ok": "2026-11-24 09:58 UTC",
+   "last_ok": "2026-11-24 22:30 UTC",
    "fails_in_a_row": 0,
    "detail": "wfp.wd3.myworkdayjobs.com",
    "fix": "",
@@ -7410,8 +7742,8 @@
   "UNICEF": {
    "status": "OK",
    "items": 206,
-   "matches": 148,
-   "last_ok": "2026-11-24 09:58 UTC",
+   "matches": 149,
+   "last_ok": "2026-11-24 22:30 UTC",
    "fails_in_a_row": 0,
    "detail": "https://careers.pageuppeople.com/671/cw/en/rss",
    "fix": "",
@@ -7419,9 +7751,9 @@
   },
   "UN Careers": {
    "status": "OK",
-   "items": 409,
-   "matches": 43,
-   "last_ok": "2026-11-24 09:58 UTC",
+   "items": 438,
+   "matches": 45,
+   "last_ok": "2026-11-24 22:30 UTC",
    "fails_in_a_row": 0,
    "detail": "https://careers.un.org/jobfeed",
    "fix": "",
@@ -7429,9 +7761,9 @@
   },
   "UNOPS": {
    "status": "OK",
-   "items": 101,
-   "matches": 45,
-   "last_ok": "2026-11-24 09:58 UTC",
+   "items": 116,
+   "matches": 51,
+   "last_ok": "2026-11-24 22:30 UTC",
    "fails_in_a_row": 0,
    "detail": "https://rss.careers.unops.org/",
    "fix": "",
@@ -7439,9 +7771,9 @@
   },
   "UNIDO": {
    "status": "OK",
-   "items": 30,
+   "items": 32,
    "matches": 2,
-   "last_ok": "2026-11-24 09:58 UTC",
+   "last_ok": "2026-11-24 22:30 UTC",
    "fails_in_a_row": 0,
    "detail": "https://careers.unido.org/search/?q=&sortColumn=referencedate&sortDirection=desc",
    "fix": "",
@@ -7450,8 +7782,8 @@
   "UNESCO": {
    "status": "OK",
    "items": 50,
-   "matches": 6,
-   "last_ok": "2026-11-24 09:58 UTC",
+   "matches": 2,
+   "last_ok": "2026-11-24 22:30 UTC",
    "fails_in_a_row": 0,
    "detail": "https://careers.unesco.org/search/?q=&sortColumn=referencedate&sortDirection=desc",
    "fix": "",
@@ -7459,9 +7791,9 @@
   },
   "EBRD": {
    "status": "OK",
-   "items": 48,
+   "items": 44,
    "matches": 8,
-   "last_ok": "2026-11-24 09:58 UTC",
+   "last_ok": "2026-11-24 22:30 UTC",
    "fails_in_a_row": 0,
    "detail": "https://jobs.ebrd.com/search/?q=&sortColumn=referencedate&sortDirection=desc",
    "fix": "",
@@ -7469,9 +7801,9 @@
   },
   "World Bank": {
    "status": "OK",
-   "items": 87,
+   "items": 92,
    "matches": 8,
-   "last_ok": "2026-11-24 09:58 UTC",
+   "last_ok": "2026-11-24 22:30 UTC",
    "fails_in_a_row": 0,
    "detail": "worldbankgroup.csod.com",
    "fix": "",
@@ -7481,7 +7813,7 @@
    "status": "OK",
    "items": 0,
    "matches": 0,
-   "last_ok": "2026-11-24 09:58 UTC",
+   "last_ok": "2026-11-24 22:30 UTC",
    "fails_in_a_row": 0,
    "detail": "erecruitment.eib.org",
    "fix": "",
@@ -7491,7 +7823,7 @@
    "status": "OK",
    "items": 20,
    "matches": 1,
-   "last_ok": "2026-11-24 09:58 UTC",
+   "last_ok": "2026-11-24 22:30 UTC",
    "fails_in_a_row": 0,
    "detail": "https://vacancies.osce.org/latest-jobs",
    "fix": "",
@@ -7501,7 +7833,7 @@
    "status": "OK",
    "items": 9,
    "matches": 2,
-   "last_ok": "2026-11-24 09:58 UTC",
+   "last_ok": "2026-11-24 22:30 UTC",
    "fails_in_a_row": 0,
    "detail": "https://talents.coe.int/en_GB/careersmarketplace/SearchJobs/feed/?listFilterMode=1&jobRecordsPerPage=200",
    "fix": "",
@@ -7512,7 +7844,7 @@
    "items": 0,
    "matches": 0,
    "last_ok": "never",
-   "fails_in_a_row": 31,
+   "fails_in_a_row": 32,
    "detail": "RuntimeError: 0 job IDs on the list pages (layout changed or built by JavaScript) ",
    "fix": "Page layout changed or needs JavaScript. Open Manual; update job_link_contains or set \"off\": true.",
    "manual": "https://jobs.giz.de/index.php?ac=search_result&language=2"
@@ -7522,7 +7854,7 @@
    "items": 0,
    "matches": 0,
    "last_ok": "never",
-   "fails_in_a_row": 31,
+   "fails_in_a_row": 32,
    "detail": "add the repository secret RELIEFWEB_APPNAME (see README, section ReliefWeb)",
    "fix": "See README > ReliefWeb (5 minutes, once).",
    "manual": "https://reliefweb.int/jobs"
@@ -7532,7 +7864,7 @@
    "items": 0,
    "matches": 0,
    "last_ok": "never",
-   "fails_in_a_row": 31,
+   "fails_in_a_row": 32,
    "detail": "add the repository secret RELIEFWEB_APPNAME (see README, section ReliefWeb)",
    "fix": "See README > ReliefWeb (5 minutes, once).",
    "manual": "https://reliefweb.int/jobs?search=country.exact:%22Bosnia%20and%20Herzegovina%22"
@@ -7540,8 +7872,8 @@
   "Impactpool": {
    "status": "OK",
    "items": 40,
-   "matches": 30,
-   "last_ok": "2026-11-24 09:58 UTC",
+   "matches": 33,
+   "last_ok": "2026-11-24 22:30 UTC",
    "fails_in_a_row": 0,
    "detail": "https://www.impactpool.org/search?q=construction",
    "fix": "",
@@ -7550,8 +7882,8 @@
   "Devex": {
    "status": "OK",
    "items": 20,
-   "matches": 3,
-   "last_ok": "2026-11-24 09:58 UTC",
+   "matches": 1,
+   "last_ok": "2026-11-24 22:30 UTC",
    "fails_in_a_row": 0,
    "detail": "https://www.devex.com/jobs/feed.rss",
    "fix": "",
@@ -7559,9 +7891,9 @@
   },
   "Klix Posao": {
    "status": "OK",
-   "items": 20,
-   "matches": 0,
-   "last_ok": "2026-11-24 09:58 UTC",
+   "items": 23,
+   "matches": 1,
+   "last_ok": "2026-11-24 22:30 UTC",
    "fails_in_a_row": 0,
    "detail": "https://posao.klix.ba/oglasi",
    "fix": "",
@@ -7569,9 +7901,9 @@
   },
   "MojPosao": {
    "status": "OK",
-   "items": 84,
-   "matches": 5,
-   "last_ok": "2026-11-24 09:58 UTC",
+   "items": 85,
+   "matches": 4,
+   "last_ok": "2026-11-24 22:30 UTC",
    "fails_in_a_row": 0,
    "detail": "https://www.mojposao.ba/pretraga-poslova?sortBy=adtype",
    "fix": "",
